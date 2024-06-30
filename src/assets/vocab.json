@@ -1,0 +1,3374 @@
+{
+  "items": [
+    {
+      "EN": "actor",
+      "EG": "mumaththil \ufee3\ufe79\ufee4\ufe77\ufe9c\ufe7d\ufe7b\ufede",
+      "extra_info": "work: profession"
+    },
+    {
+      "EN": "adjective",
+      "EG": "Sifa \ufebb\ufe7b\ufed4\ufe77\ufe94",
+      "extra_info": "communication: language"
+    },
+    {
+      "EN": "adult",
+      "EG": "baeliG \ufe91\ufe8e\ufe76\ufedf\ufe7b\ufece",
+      "extra_info": "people: people"
+    },
+    {
+      "EN": "afternoon",
+      "EG": "baAd ilDuhr \ufe91\ufe77\ufecc\ufeaa \ufe8d\ufe7a\ufedf\ufec0\ufe79\ufeec\ufeae",
+      "extra_info": "time: time"
+    },
+    {
+      "EN": "air",
+      "EG": "hawa' \ufeeb\ufe77\ufeee\ufe8d\ufe76\ufe80",
+      "extra_info": "environment: weather"
+    },
+    {
+      "EN": "airport",
+      "EG": "maTaar \ufee3\ufe77\ufec4\ufe8e\ufe76\ufead",
+      "extra_info": "transport: air"
+    },
+    {
+      "EN": "alive",
+      "EG": "Aaeyish \ufecb\ufe8e\ufe76\ufef3\ufe7b\ufeb6",
+      "extra_info": "people: life"
+    },
+    {
+      "EN": "apple",
+      "EG": "tuffaeh \ufe97\ufe79\ufed4\ufe7d\ufe8e\ufe76\ufea1",
+      "extra_info": "food: fruit"
+    },
+    {
+      "EN": "April",
+      "EG": "'abreel \ufe83\ufe91\ufeae\ufef3\ufede",
+      "extra_info": "time: calendar"
+    },
+    {
+      "EN": "army",
+      "EG": "geesh \ufe9f\ufef4\ufeb6",
+      "extra_info": "society: military"
+    },
+    {
+      "EN": "art",
+      "EG": "fann \ufed3\ufe77\ufee6\ufe7c",
+      "extra_info": "society: arts"
+    },
+    {
+      "EN": "artist",
+      "EG": "fannaen \ufed3\ufe77\ufee8\ufe7d\ufe8e\ufe76\ufee5",
+      "extra_info": "work: profession"
+    },
+    {
+      "EN": "attack",
+      "EG": "'ithaggim Aala \ufe87\ufe97\ufeec\ufe77\ufea0\ufe7d\ufe7b\ufee2 \ufecb\ufe77\ufee0\ufef0",
+      "extra_info": "society: violence"
+    },
+    {
+      "EN": "August",
+      "EG": "'aGusTus \ufe83\ufecf\ufe79\ufeb4\ufec4\ufe79\ufeb2",
+      "extra_info": "time: calendar"
+    },
+    {
+      "EN": "author",
+      "EG": "mw'allif \ufee3\ufe86\ufe76\ufedf\ufe7d\ufe7b\ufed2",
+      "extra_info": "work: profession"
+    },
+    {
+      "EN": "baby",
+      "EG": "beebi \ufe91\ufef4\ufe92\ufef2",
+      "extra_info": "people: people"
+    },
+    {
+      "EN": "back",
+      "EG": "Dahr \ufebf\ufe77\ufeec\ufeae",
+      "extra_info": "people: external parts"
+    },
+    {
+      "EN": "bad",
+      "EG": "baTTaal \ufe91\ufe77\ufec4\ufe7d\ufe8e\ufe76\ufedd",
+      "extra_info": "qualities: good"
+    },
+    {
+      "EN": "bag",
+      "EG": "kees \ufedb\ufef4\ufeb2",
+      "extra_info": "possessions: storage"
+    },
+    {
+      "EN": "bag",
+      "EG": "shanTa \ufeb7\ufe77\ufee8\ufec4\ufe77\ufe94",
+      "extra_info": "possessions: storage"
+    },
+    {
+      "EN": "ball",
+      "EG": "koora \ufedb\ufeee\ufead\ufe76\ufe93",
+      "extra_info": "society: sport"
+    },
+    {
+      "EN": "banana",
+      "EG": "mooz \ufee3\ufeee\ufeaf",
+      "extra_info": "food: fruit"
+    },
+    {
+      "EN": "band",
+      "EG": "faree' moosee'i \ufed3\ufe77\ufeae\ufef3\ufed6 \ufee3\ufeee\ufeb3\ufef4\ufed8\ufef2",
+      "extra_info": "society: culture"
+    },
+    {
+      "EN": "band",
+      "EG": "rabTa \ufead\ufe76\ufe91\ufec4\ufe77\ufe94",
+      "extra_info": "qualities: shapes"
+    },
+    {
+      "EN": "band",
+      "EG": "shireeT \ufeb7\ufe7b\ufeae\ufef3\ufec2",
+      "extra_info": "clothing: accessories"
+    },
+    {
+      "EN": "bank",
+      "EG": "bank \ufe91\ufe77\ufee8\ufeda",
+      "extra_info": "possessions: money"
+    },
+    {
+      "EN": "bar",
+      "EG": "haegiz \ufea3\ufe8e\ufe76\ufe9f\ufe7b\ufeb0",
+      "extra_info": "movement: contain"
+    },
+    {
+      "EN": "bar",
+      "EG": "baar \ufe91\ufe8e\ufe76\ufead",
+      "extra_info": "society: leisure"
+    },
+    {
+      "EN": "bar",
+      "EG": "Kammaara \ufea7\ufe77\ufee4\ufe7d\ufe8e\ufe76\ufead\ufe76\ufe93",
+      "extra_info": "society: leisure"
+    },
+    {
+      "EN": "bar",
+      "EG": "seeK \ufeb3\ufef4\ufea6",
+      "extra_info": "materials: engineering"
+    },
+    {
+      "EN": "bathroom",
+      "EG": "hammaem \ufea3\ufe77\ufee4\ufe7d\ufe8e\ufe76\ufee1",
+      "extra_info": "home: bathroom"
+    },
+    {
+      "EN": "beach",
+      "EG": "bilaeg \ufe91\ufe7b\ufefc\ufe9d",
+      "extra_info": "environment: landscape"
+    },
+    {
+      "EN": "beat",
+      "EG": "Darab \ufebf\ufe77\ufeae\ufe76\ufe8f",
+      "extra_info": "society: violence"
+    },
+    {
+      "EN": "beat",
+      "EG": "saba' \ufeb3\ufe77\ufe92\ufe77\ufed6",
+      "extra_info": "activity: win"
+    },
+    {
+      "EN": "beat",
+      "EG": "naffaD \ufee7\ufe77\ufed4\ufe7d\ufe77\ufebe",
+      "extra_info": "home: cleaning"
+    },
+    {
+      "EN": "beat",
+      "EG": "'ieeQaaA \ufe87\ufef3\ufed8\ufe8e\ufe76\ufec9",
+      "extra_info": "society: arts"
+    },
+    {
+      "EN": "beat",
+      "EG": "nabD \ufee7\ufe77\ufe92\ufebe",
+      "extra_info": "people: senses"
+    },
+    {
+      "EN": "beautiful",
+      "EG": "gameel \ufe9f\ufe77\ufee4\ufef4\ufede",
+      "extra_info": "qualities: attractive"
+    },
+    {
+      "EN": "bedroom",
+      "EG": "'uooDit noom \ufe83\ufe78\ufeed\ufebf\ufe7b\ufe94 \ufee7\ufeee\ufee1",
+      "extra_info": "home: bedroom"
+    },
+    {
+      "EN": "beef",
+      "EG": "lahma kandooz \ufedf\ufe77\ufea4\ufee4\ufe77\ufe94 \ufedb\ufe77\ufee8\ufeaa\ufeed\ufeaf",
+      "extra_info": "food: meat"
+    },
+    {
+      "EN": "beer",
+      "EG": "beera \ufe91\ufef4\ufeae\ufe76\ufe93",
+      "extra_info": "people: vices"
+    },
+    {
+      "EN": "bend",
+      "EG": "tana \ufe97\ufe77\ufee8\ufef0",
+      "extra_info": "change: shape"
+    },
+    {
+      "EN": "beverage",
+      "EG": "mashroob \ufee3\ufe77\ufeb8\ufeae\ufeed\ufe8f",
+      "extra_info": "food: drinks"
+    },
+    {
+      "EN": "bicycle",
+      "EG": "Aagala \ufecb\ufe77\ufea0\ufe77\ufee0\ufe77\ufe94",
+      "extra_info": "transport: road"
+    },
+    {
+      "EN": "big",
+      "EG": "kibeer \ufedb\ufe7b\ufe92\ufef4\ufeae",
+      "extra_info": "quantity: size"
+    },
+    {
+      "EN": "bill",
+      "EG": "fatoora \ufed3\ufe8e\ufe76\ufe97\ufeee\ufead\ufe76\ufe93",
+      "extra_info": "possessions: money"
+    },
+    {
+      "EN": "billion",
+      "EG": "bilyoon \ufe91\ufe7b\ufee0\ufef4\ufeee\ufee5",
+      "extra_info": "quantity: numbers"
+    },
+    {
+      "EN": "bird",
+      "EG": "muzza \ufee3\ufe79\ufeb0\ufe7c\ufe76\ufe93",
+      "extra_info": "people: people"
+    },
+    {
+      "EN": "black",
+      "EG": "'iswid \ufe87\ufeb3\ufeee\ufe7a\ufea9",
+      "extra_info": "qualities: colours"
+    },
+    {
+      "EN": "blind",
+      "EG": "'aAma \ufe83\ufecb\ufee4\ufef0",
+      "extra_info": "people: attributes"
+    },
+    {
+      "EN": "blood",
+      "EG": "damm \ufea9\ufe76\ufee1\ufe7c",
+      "extra_info": "people: internal parts"
+    },
+    {
+      "EN": "boat",
+      "EG": "markib \ufee3\ufe77\ufeae\ufedb\ufe7b\ufe90",
+      "extra_info": "transport: marine"
+    },
+    {
+      "EN": "body",
+      "EG": "gism \ufe9f\ufe7b\ufeb4\ufee2",
+      "extra_info": "people: external parts"
+    },
+    {
+      "EN": "body",
+      "EG": "guthmaen \ufe9f\ufe79\ufe9c\ufee4\ufe8e\ufe76\ufee5",
+      "extra_info": "people: death"
+    },
+    {
+      "EN": "body",
+      "EG": "gitta \ufe9f\ufe7b\ufe98\ufe7d\ufe77\ufe94",
+      "extra_info": "people: external parts"
+    },
+    {
+      "EN": "bone",
+      "EG": "AaDm \ufecb\ufe77\ufec0\ufee2",
+      "extra_info": "people: internal parts"
+    },
+    {
+      "EN": "book",
+      "EG": "kitaeb \ufedb\ufe7b\ufe98\ufe8e\ufe76\ufe8f",
+      "extra_info": "communication: publication"
+    },
+    {
+      "EN": "book",
+      "EG": "hagaz \ufea3\ufe77\ufea0\ufe77\ufeb0",
+      "extra_info": "communication: arranging"
+    },
+    {
+      "EN": "bottle",
+      "EG": "'izaeza \ufe87\ufeaf\ufe8d\ufe76\ufeaf\ufe76\ufe93",
+      "extra_info": "possessions: storage"
+    },
+    {
+      "EN": "bottom",
+      "EG": "'aAr \ufed7\ufe77\ufecc\ufeae",
+      "extra_info": "food: equipment"
+    },
+    {
+      "EN": "bottom",
+      "EG": "maQAda \ufee3\ufe77\ufed8\ufecc\ufeaa\ufe76\ufe93",
+      "extra_info": "people: external parts"
+    },
+    {
+      "EN": "bottom",
+      "EG": "QaaA \ufed7\ufe8e\ufe76\ufec9",
+      "extra_info": "environment: water"
+    },
+    {
+      "EN": "bottom",
+      "EG": "'aAr \ufed7\ufe77\ufecc\ufeae",
+      "extra_info": "people: external parts"
+    },
+    {
+      "EN": "bottom",
+      "EG": "Kalfiyya \ufea7\ufe77\ufee0\ufed4\ufe7b\ufef4\ufe7d\ufe77\ufe94",
+      "extra_info": "people: external parts"
+    },
+    {
+      "EN": "brain",
+      "EG": "muKK \ufee3\ufe79\ufea6\ufe7c",
+      "extra_info": "people: internal parts"
+    },
+    {
+      "EN": "break",
+      "EG": "kasra \ufedb\ufe77\ufeb4\ufeae\ufe76\ufe93",
+      "extra_info": "health: injury"
+    },
+    {
+      "EN": "break",
+      "EG": "'istiraaha \ufe87\ufeb3\ufe98\ufe7b\ufeae\ufe8d\ufe76\ufea3\ufe77\ufe94",
+      "extra_info": "society: rest"
+    },
+    {
+      "EN": "break",
+      "EG": "Kaelif \ufea7\ufe8e\ufe76\ufedf\ufe7b\ufed2",
+      "extra_info": "society: law"
+    },
+    {
+      "EN": "break",
+      "EG": "farag \ufed3\ufe77\ufeae\ufe76\ufe9d",
+      "extra_info": "spirit: luck"
+    },
+    {
+      "EN": "break",
+      "EG": "kassar \ufedb\ufe77\ufeb4\ufe7d\ufe77\ufeae",
+      "extra_info": "change: damage"
+    },
+    {
+      "EN": "bridge",
+      "EG": "gisr \ufe9f\ufe7b\ufeb4\ufeae",
+      "extra_info": "transport: road"
+    },
+    {
+      "EN": "bridge",
+      "EG": "tarneeb \ufe97\ufe77\ufeae\ufee7\ufef4\ufe90",
+      "extra_info": "society: games"
+    },
+    {
+      "EN": "brown",
+      "EG": "bunni \ufe91\ufe79\ufee8\ufe7d\ufef2",
+      "extra_info": "qualities: colours"
+    },
+    {
+      "EN": "build",
+      "EG": "bana \ufe91\ufe77\ufee8\ufef0",
+      "extra_info": "activity: make"
+    },
+    {
+      "EN": "building",
+      "EG": "Aimaara \ufecb\ufe7b\ufee4\ufe8e\ufe76\ufead\ufe76\ufe93",
+      "extra_info": "buildings: buildings"
+    },
+    {
+      "EN": "building",
+      "EG": "bina' \ufe91\ufe7b\ufee8\ufe8e\ufe76\ufe80",
+      "extra_info": "activity: make"
+    },
+    {
+      "EN": "burn",
+      "EG": "hara' \ufea3\ufe77\ufeae\ufe76\ufed5",
+      "extra_info": "environment: fire"
+    },
+    {
+      "EN": "burn",
+      "EG": "shaaT \ufeb7\ufe8e\ufe76\ufec1",
+      "extra_info": "food: preparation"
+    },
+    {
+      "EN": "burn",
+      "EG": "'ithara' \ufe87\ufe97\ufea4\ufe77\ufeae\ufe76\ufed5",
+      "extra_info": "environment: fire"
+    },
+    {
+      "EN": "burn",
+      "EG": "lasaA \ufedf\ufe77\ufeb4\ufe77\ufeca",
+      "extra_info": "environment: fire"
+    },
+    {
+      "EN": "cake",
+      "EG": "toorta \ufe97\ufeee\ufead\ufe97\ufe77\ufe94",
+      "extra_info": "food: dishes"
+    },
+    {
+      "EN": "call",
+      "EG": "mukalma \ufee3\ufe79\ufedc\ufe8e\ufe76\ufedf\ufee4\ufe77\ufe94",
+      "extra_info": "communication: spoken"
+    },
+    {
+      "EN": "call",
+      "EG": "kallim biiltileefoon \ufedb\ufe77\ufee0\ufe7d\ufe7b\ufee2 \ufe91\ufe7b\ufe8e\ufe7a\ufedf\ufe98\ufe7b\ufee0\ufef4\ufed4\ufeee\ufee5",
+      "extra_info": "communication: transmission"
+    },
+    {
+      "EN": "call",
+      "EG": "nada \ufee7\ufe8e\ufe76\ufea9\ufeef",
+      "extra_info": "communication: spoken"
+    },
+    {
+      "EN": "camera",
+      "EG": "kameera \ufedb\ufe8e\ufe76\ufee3\ufef4\ufeae\ufe8d\ufe76",
+      "extra_info": "society: arts"
+    },
+    {
+      "EN": "car",
+      "EG": "Aarabiya \ufecb\ufe77\ufeae\ufe76\ufe91\ufe7b\ufef4\ufe77\ufe94",
+      "extra_info": "transport: road"
+    },
+    {
+      "EN": "card",
+      "EG": "karneeh \ufedb\ufe77\ufeae\ufee7\ufef4\ufeea",
+      "extra_info": "society: membership"
+    },
+    {
+      "EN": "carry",
+      "EG": "shael \ufeb7\ufe8e\ufe76\ufedd",
+      "extra_info": "movement: move something"
+    },
+    {
+      "EN": "cat",
+      "EG": "'uTTa \ufed7\ufe79\ufec4\ufe7d\ufe77\ufe94",
+      "extra_info": "environment: animals"
+    },
+    {
+      "EN": "catch",
+      "EG": "misik \ufee3\ufe7b\ufeb4\ufe7b\ufeda",
+      "extra_info": "movement: contain"
+    },
+    {
+      "EN": "catch",
+      "EG": "'itAada min \ufe87\ufe97\ufecc\ufe77\ufeaa\ufeef \ufee3\ufe7b\ufee6",
+      "extra_info": "health: illness"
+    },
+    {
+      "EN": "catch",
+      "EG": "lihi' \ufedf\ufe7b\ufea4\ufe7b\ufed6",
+      "extra_info": "movement: in and out"
+    },
+    {
+      "EN": "ceiling",
+      "EG": "sa'f \ufeb3\ufe77\ufed8\ufed2",
+      "extra_info": "buildings: parts"
+    },
+    {
+      "EN": "cell",
+      "EG": "zinzaena \ufeaf\ufe7a\ufee7\ufeb0\ufe8d\ufe76\ufee7\ufe77\ufe94",
+      "extra_info": "society: punishment"
+    },
+    {
+      "EN": "cell",
+      "EG": "Kaliyya \ufea7\ufe77\ufee0\ufe7b\ufef4\ufe7d\ufe77\ufe94",
+      "extra_info": "technical: science"
+    },
+    {
+      "EN": "chair",
+      "EG": "kursi \ufedb\ufe79\ufeae\ufeb3\ufef2",
+      "extra_info": "home: furniture"
+    },
+    {
+      "EN": "cheese",
+      "EG": "gibna \ufe9f\ufe7b\ufe92\ufee8\ufe77\ufe94",
+      "extra_info": "food: dairy"
+    },
+    {
+      "EN": "chicken",
+      "EG": "farKa \ufed3\ufe77\ufeae\ufea7\ufe77\ufe94",
+      "extra_info": "environment: birds"
+    },
+    {
+      "EN": "chicken",
+      "EG": "firaeK \ufed3\ufe7b\ufeae\ufe8d\ufe76\ufea5",
+      "extra_info": "food: meat"
+    },
+    {
+      "EN": "child",
+      "EG": "Tifl \ufec3\ufe7b\ufed4\ufede",
+      "extra_info": "society: family"
+    },
+    {
+      "EN": "church",
+      "EG": "kineesa \ufedb\ufe7b\ufee8\ufef4\ufeb4\ufe77\ufe94",
+      "extra_info": "spirit: religion"
+    },
+    {
+      "EN": "circle",
+      "EG": "dayra \ufea9\ufe8d\ufe76\ufef3\ufeae\ufe76\ufe93",
+      "extra_info": "qualities: shapes"
+    },
+    {
+      "EN": "circle",
+      "EG": "daar \ufea9\ufe8d\ufe76\ufead",
+      "extra_info": "movement: direction"
+    },
+    {
+      "EN": "clay",
+      "EG": "Teen \ufec3\ufef4\ufee6",
+      "extra_info": "materials: building"
+    },
+    {
+      "EN": "close",
+      "EG": "'urayib \ufed7\ufe79\ufeae\ufe76\ufef3\ufe7b\ufe90",
+      "extra_info": "movement: distance"
+    },
+    {
+      "EN": "close",
+      "EG": "GammaD \ufecf\ufe77\ufee4\ufe7d\ufe77\ufebe",
+      "extra_info": "people: senses"
+    },
+    {
+      "EN": "clothing",
+      "EG": "hudoom \ufeeb\ufe79\ufeaa\ufeed\ufee1",
+      "extra_info": "clothing: other"
+    },
+    {
+      "EN": "club",
+      "EG": "naedi \ufee7\ufe8e\ufe76\ufea9\ufef1",
+      "extra_info": "society: leisure"
+    },
+    {
+      "EN": "club",
+      "EG": "nabboot \ufee7\ufe77\ufe92\ufe7d\ufeee\ufe95",
+      "extra_info": "society: weapons"
+    },
+    {
+      "EN": "coat",
+      "EG": "balTw \ufe91\ufe77\ufee0\ufec4\ufeee",
+      "extra_info": "clothing: outer wear"
+    },
+    {
+      "EN": "coffee",
+      "EG": "bunn \ufe91\ufe79\ufee6\ufe7c",
+      "extra_info": "food: drinks"
+    },
+    {
+      "EN": "coffee",
+      "EG": "'ahwa \ufed7\ufe77\ufeec\ufeee\ufe76\ufe93",
+      "extra_info": "food: drinks"
+    },
+    {
+      "EN": "cold",
+      "EG": "sae'iA \ufeb3\ufe8e\ufe76\ufed7\ufe7b\ufeca",
+      "extra_info": "food: drinks"
+    },
+    {
+      "EN": "cold",
+      "EG": "bard \ufe91\ufe77\ufeae\ufea9",
+      "extra_info": "health: illness"
+    },
+    {
+      "EN": "cold",
+      "EG": "bard \ufe91\ufe77\ufeae\ufea9",
+      "extra_info": "environment: weather"
+    },
+    {
+      "EN": "cold",
+      "EG": "baerid \ufe91\ufe8e\ufe76\ufead\ufe7a\ufea9",
+      "extra_info": "environment: weather"
+    },
+    {
+      "EN": "cold",
+      "EG": "baerid \ufe91\ufe8e\ufe76\ufead\ufe7a\ufea9",
+      "extra_info": "emotion: emotion"
+    },
+    {
+      "EN": "cold",
+      "EG": "bard \ufe91\ufe77\ufeae\ufea9",
+      "extra_info": "environment: weather"
+    },
+    {
+      "EN": "computer",
+      "EG": "kumbyootar \ufedb\ufe79\ufee4\ufe92\ufef4\ufeee\ufe97\ufe77\ufeae",
+      "extra_info": "technical: engineering"
+    },
+    {
+      "EN": "consonant",
+      "EG": "harf saekin \ufea3\ufe77\ufeae\ufed1 \ufeb3\ufe8e\ufe76\ufedb\ufe7b\ufee6",
+      "extra_info": "communication: language"
+    },
+    {
+      "EN": "contract",
+      "EG": "kashsh \ufedb\ufe77\ufeb6\ufe7c",
+      "extra_info": "change: increase/decrease"
+    },
+    {
+      "EN": "cool",
+      "EG": "'itbarrad \ufe87\ufe97\ufe92\ufe77\ufeae\ufe7c\ufe76\ufea9",
+      "extra_info": "environment: weather"
+    },
+    {
+      "EN": "cool",
+      "EG": "baerid \ufe91\ufe8e\ufe76\ufead\ufe7a\ufea9",
+      "extra_info": "quantity: degree"
+    },
+    {
+      "EN": "cool",
+      "EG": "gaemid \ufe9f\ufe8e\ufe76\ufee3\ufe7b\ufeaa",
+      "extra_info": "qualities: good"
+    },
+    {
+      "EN": "copper",
+      "EG": "nahaesi \ufee7\ufe77\ufea4\ufe8e\ufe76\ufeb3\ufef2",
+      "extra_info": "qualities: colours"
+    },
+    {
+      "EN": "corn",
+      "EG": "zura \ufeab\ufe78\ufead\ufe76\ufe93",
+      "extra_info": "food: pulses"
+    },
+    {
+      "EN": "corner",
+      "EG": "rukn \ufead\ufe78\ufedb\ufee6",
+      "extra_info": "buildings: parts"
+    },
+    {
+      "EN": "corner",
+      "EG": "naSya \ufee7\ufe8e\ufe76\ufebb\ufef4\ufe77\ufe94",
+      "extra_info": "environment: urban"
+    },
+    {
+      "EN": "corner",
+      "EG": "zana' \ufeaf\ufe76\ufee7\ufe77\ufed6",
+      "extra_info": "movement: contain"
+    },
+    {
+      "EN": "country",
+      "EG": "balad \ufe91\ufe77\ufee0\ufe77\ufeaa",
+      "extra_info": "society: nationality"
+    },
+    {
+      "EN": "court",
+      "EG": "malAab \ufee3\ufe77\ufee0\ufecc\ufe77\ufe90",
+      "extra_info": "society: sport"
+    },
+    {
+      "EN": "court",
+      "EG": "mahkama \ufee3\ufe77\ufea4\ufedc\ufe77\ufee4\ufe77\ufe94",
+      "extra_info": "society: law"
+    },
+    {
+      "EN": "court",
+      "EG": "baSbaS \ufe91\ufe77\ufebc\ufe92\ufe77\ufeba",
+      "extra_info": "people: gender"
+    },
+    {
+      "EN": "cow",
+      "EG": "ba'ar \ufe91\ufe77\ufed8\ufe77\ufeae",
+      "extra_info": "environment: farm animals"
+    },
+    {
+      "EN": "crowd",
+      "EG": "gumhoor \ufe9f\ufe79\ufee4\ufeec\ufeee\ufead",
+      "extra_info": "people: people"
+    },
+    {
+      "EN": "cry",
+      "EG": "AayaT \ufecb\ufe77\ufef4\ufe77\ufec2",
+      "extra_info": "communication: nonverbal"
+    },
+    {
+      "EN": "cry",
+      "EG": "SarKa \ufebb\ufe77\ufeae\ufea7\ufe77\ufe94",
+      "extra_info": "communication: spoken"
+    },
+    {
+      "EN": "cup",
+      "EG": "fingaen \ufed3\ufe7b\ufee8\ufea0\ufe8e\ufe76\ufee5",
+      "extra_info": "food: tableware"
+    },
+    {
+      "EN": "curved",
+      "EG": "midawwar \ufee3\ufe7b\ufeaa\ufe76\ufeed\ufe7c\ufe76\ufead",
+      "extra_info": "qualities: shapes"
+    },
+    {
+      "EN": "cut",
+      "EG": "'aTaA \ufed7\ufe77\ufec4\ufe77\ufeca",
+      "extra_info": "change: cut"
+    },
+    {
+      "EN": "cut",
+      "EG": "'aSS \ufed7\ufe77\ufeba\ufe7c",
+      "extra_info": "change: cut"
+    },
+    {
+      "EN": "cut",
+      "EG": "taGweera \ufe97\ufe77\ufed0\ufeee\ufef3\ufeae\ufe76\ufe93",
+      "extra_info": "health: injury"
+    },
+    {
+      "EN": "cut",
+      "EG": "hiSSa \ufea3\ufe7b\ufebc\ufe7d\ufe77\ufe94",
+      "extra_info": "quantity: proportion"
+    },
+    {
+      "EN": "cut",
+      "EG": "bara \ufe91\ufe77\ufeae\ufeef",
+      "extra_info": "change: cut"
+    },
+    {
+      "EN": "cut",
+      "EG": "'uSSa \ufed7\ufe79\ufebc\ufe7d\ufe77\ufe94",
+      "extra_info": "people: external parts"
+    },
+    {
+      "EN": "dark",
+      "EG": "Gaemi' \ufecf\ufe8e\ufe76\ufee3\ufe7b\ufed6",
+      "extra_info": "qualities: colours"
+    },
+    {
+      "EN": "dark",
+      "EG": "muZlim \ufee3\ufe79\ufec8\ufee0\ufe7b\ufee2",
+      "extra_info": "environment: light"
+    },
+    {
+      "EN": "date",
+      "EG": "'agal \ufe83\ufe9f\ufe77\ufede",
+      "extra_info": "communication: arranging"
+    },
+    {
+      "EN": "date",
+      "EG": "tareeK \ufe97\ufe8e\ufe76\ufead\ufef3\ufea6",
+      "extra_info": "time: calendar"
+    },
+    {
+      "EN": "date",
+      "EG": "balah \ufe91\ufe77\ufee0\ufe77\ufea2",
+      "extra_info": "food: fruit"
+    },
+    {
+      "EN": "date",
+      "EG": "saggil tareeK \ufeb3\ufe77\ufea0\ufe7d\ufe7b\ufede \ufe97\ufe8e\ufe76\ufead\ufef3\ufea6",
+      "extra_info": "communication: recording"
+    },
+    {
+      "EN": "daughter",
+      "EG": "bint \ufe91\ufe7b\ufee8\ufe96",
+      "extra_info": "society: family"
+    },
+    {
+      "EN": "day",
+      "EG": "yoom \ufef3\ufeee\ufee1",
+      "extra_info": "time: duration"
+    },
+    {
+      "EN": "day",
+      "EG": "nahaar \ufee7\ufe77\ufeec\ufe8e\ufe76\ufead",
+      "extra_info": "time: time"
+    },
+    {
+      "EN": "deaf",
+      "EG": "'aTrash \ufe83\ufec3\ufeae\ufe76\ufeb5",
+      "extra_info": "people: senses"
+    },
+    {
+      "EN": "death",
+      "EG": "wafaet \ufeed\ufe76\ufed3\ufe8e\ufe76\ufe93",
+      "extra_info": "people: death"
+    },
+    {
+      "EN": "December",
+      "EG": "deesimbir \ufea9\ufef3\ufeb4\ufe7b\ufee4\ufe92\ufe7b\ufeae",
+      "extra_info": "time: calendar"
+    },
+    {
+      "EN": "diamond",
+      "EG": "'almaaZ \ufe83\ufedf\ufee4\ufe8e\ufe76\ufec5",
+      "extra_info": "materials: jewelry"
+    },
+    {
+      "EN": "die",
+      "EG": "maet \ufee3\ufe8e\ufe76\ufe95",
+      "extra_info": "people: death"
+    },
+    {
+      "EN": "dig",
+      "EG": "fahat \ufed3\ufe77\ufea4\ufe77\ufe96",
+      "extra_info": "movement: fill and empty"
+    },
+    {
+      "EN": "dinner",
+      "EG": "Aasha' \ufecb\ufe77\ufeb8\ufe8e\ufe76\ufe80",
+      "extra_info": "food: consumption"
+    },
+    {
+      "EN": "right",
+      "EG": "yimeen \ufef3\ufe7b\ufee4\ufef4\ufee6",
+      "extra_info": "movement: direction"
+    },
+    {
+      "EN": "catch",
+      "EG": "'itAada min \ufe87\ufe97\ufecc\ufe77\ufeaa\ufeef \ufee3\ufe7b\ufee6",
+      "extra_info": "health: illness"
+    },
+    {
+      "EN": "doctor",
+      "EG": "duktoor \ufea9\ufe78\ufedb\ufe98\ufeee\ufead",
+      "extra_info": "work: profession"
+    },
+    {
+      "EN": "doctor",
+      "EG": "Tabeeb \ufec3\ufe77\ufe92\ufef4\ufe90",
+      "extra_info": "work: profession"
+    },
+    {
+      "EN": "dog",
+      "EG": "kalb \ufedb\ufe77\ufee0\ufe90",
+      "extra_info": "environment: animals"
+    },
+    {
+      "EN": "dollar",
+      "EG": "doolaar \ufea9\ufeed\ufefb\ufead",
+      "extra_info": "possessions: money"
+    },
+    {
+      "EN": "door",
+      "EG": "bawwaeba \ufe91\ufe77\ufeee\ufe7c\ufe8d\ufe76\ufe91\ufe77\ufe94",
+      "extra_info": "buildings: fittings"
+    },
+    {
+      "EN": "dot",
+      "EG": "nu'Ta \ufee7\ufe79\ufed8\ufec4\ufe77\ufe94",
+      "extra_info": "qualities: shapes"
+    },
+    {
+      "EN": "down",
+      "EG": "taht \ufe97\ufe77\ufea4\ufe96",
+      "extra_info": "movement: up and down"
+    },
+    {
+      "EN": "draw",
+      "EG": "taAaedul \ufe97\ufe77\ufecc\ufe8e\ufe76\ufea9\ufe78\ufedd",
+      "extra_info": "society: sport"
+    },
+    {
+      "EN": "draw",
+      "EG": "rasam \ufead\ufe76\ufeb3\ufe77\ufee2",
+      "extra_info": "communication: visual"
+    },
+    {
+      "EN": "draw",
+      "EG": "sahab \ufeb3\ufe77\ufea4\ufe77\ufe90",
+      "extra_info": "movement: push and pull"
+    },
+    {
+      "EN": "dream",
+      "EG": "rw'ya \ufead\ufe85\ufef3\ufe77\ufe94",
+      "extra_info": "spirit: religion"
+    },
+    {
+      "EN": "dress",
+      "EG": "labbis \ufedf\ufe77\ufe92\ufe7d\ufe7b\ufeb2",
+      "extra_info": "clothing: wear"
+    },
+    {
+      "EN": "drink",
+      "EG": "Kamra \ufea7\ufe77\ufee4\ufeae\ufe76\ufe93",
+      "extra_info": "people: vices"
+    },
+    {
+      "EN": "drug",
+      "EG": "dawa' \ufea9\ufe76\ufeed\ufe8d\ufe76\ufe80",
+      "extra_info": "health: treatment"
+    },
+    {
+      "EN": "drug",
+      "EG": "Kaddar \ufea7\ufe77\ufeaa\ufe7c\ufe76\ufead",
+      "extra_info": "society: violence"
+    },
+    {
+      "EN": "drug",
+      "EG": "muKaddaraat \ufee3\ufe79\ufea8\ufe77\ufeaa\ufe7c\ufe76\ufead\ufe8d\ufe76\ufe95",
+      "extra_info": "people: vices"
+    },
+    {
+      "EN": "dry",
+      "EG": "nishif \ufee7\ufe7b\ufeb8\ufe7b\ufed2",
+      "extra_info": "home: cleaning"
+    },
+    {
+      "EN": "dust",
+      "EG": "Aufaar \ufecb\ufe79\ufed4\ufe8e\ufe76\ufead",
+      "extra_info": "home: cleaning"
+    },
+    {
+      "EN": "ear",
+      "EG": "widn \ufeed\ufe7a\ufea9\ufee5",
+      "extra_info": "people: external parts"
+    },
+    {
+      "EN": "east",
+      "EG": "shar' \ufeb7\ufe77\ufeae\ufed5",
+      "extra_info": "movement: position"
+    },
+    {
+      "EN": "eat",
+      "EG": "kal \ufedb\ufe77\ufede",
+      "extra_info": "food: consumption"
+    },
+    {
+      "EN": "egg",
+      "EG": "beeD \ufe91\ufef4\ufebe",
+      "extra_info": "food: dairy"
+    },
+    {
+      "EN": "eight",
+      "EG": "tamanya \ufe97\ufe77\ufee4\ufe8e\ufe76\ufee7\ufef4\ufe77\ufe94",
+      "extra_info": "quantity: numbers"
+    },
+    {
+      "EN": "eighteen",
+      "EG": "tamantaashar \ufe97\ufe77\ufee4\ufe77\ufee8\ufe98\ufe8e\ufe76\ufeb7\ufe77\ufeae",
+      "extra_info": "quantity: numbers"
+    },
+    {
+      "EN": "eighty",
+      "EG": "tamaneen \ufe97\ufe77\ufee4\ufe77\ufee8\ufef4\ufee6",
+      "extra_info": "quantity: numbers"
+    },
+    {
+      "EN": "election",
+      "EG": "'intiKaeb \ufe87\ufee7\ufe98\ufe7b\ufea8\ufe8e\ufe76\ufe8f",
+      "extra_info": "society: politics"
+    },
+    {
+      "EN": "eleven",
+      "EG": "hidaashar \ufea3\ufe7b\ufeaa\ufe8d\ufe76\ufeb7\ufe77\ufeae",
+      "extra_info": "quantity: numbers"
+    },
+    {
+      "EN": "energy",
+      "EG": "hayawiyya \ufea3\ufe77\ufef4\ufe77\ufeee\ufe7a\ufef3\ufe7d\ufe77\ufe94",
+      "extra_info": "character: energy"
+    },
+    {
+      "EN": "engine",
+      "EG": "mootoor \ufee3\ufeee\ufe97\ufeee\ufead",
+      "extra_info": "technical: engineering"
+    },
+    {
+      "EN": "exercise",
+      "EG": "tamreen \ufe97\ufe77\ufee4\ufeae\ufef3\ufee6",
+      "extra_info": "society: sport"
+    },
+    {
+      "EN": "exercise",
+      "EG": "tamreen \ufe97\ufe77\ufee4\ufeae\ufef3\ufee6",
+      "extra_info": "education: study"
+    },
+    {
+      "EN": "exercise",
+      "EG": "'istaKdim \ufe87\ufeb3\ufe98\ufe77\ufea8\ufeaa\ufe7a\ufee1",
+      "extra_info": "activity: use"
+    },
+    {
+      "EN": "exercise",
+      "EG": "'itmarran \ufe87\ufe97\ufee4\ufe77\ufeae\ufe7c\ufe76\ufee5",
+      "extra_info": "education: study"
+    },
+    {
+      "EN": "explode",
+      "EG": "far'aA \ufed3\ufe77\ufeae\ufed7\ufe77\ufeca",
+      "extra_info": "society: violence"
+    },
+    {
+      "EN": "face",
+      "EG": "waegih \ufeed\ufe8d\ufe76\ufe9f\ufe7b\ufeea",
+      "extra_info": "influence: support"
+    },
+    {
+      "EN": "famous",
+      "EG": "mashhoor \ufee3\ufe77\ufeb8\ufeec\ufeee\ufead",
+      "extra_info": "character: respect"
+    },
+    {
+      "EN": "fan",
+      "EG": "muAgab \ufee3\ufe79\ufecc\ufea0\ufe77\ufe90",
+      "extra_info": "emotion: please"
+    },
+    {
+      "EN": "fan",
+      "EG": "Gaewi \ufecf\ufe8e\ufe76\ufeed\ufef1",
+      "extra_info": "intellect: interest"
+    },
+    {
+      "EN": "fan",
+      "EG": "marwaha \ufee3\ufe77\ufeae\ufeed\ufe76\ufea3\ufe77\ufe94",
+      "extra_info": "buildings: heating and ventilation"
+    },
+    {
+      "EN": "farm",
+      "EG": "mazraAa \ufee3\ufe77\ufeb0\ufead\ufe76\ufecb\ufe77\ufe94",
+      "extra_info": "environment: farming"
+    },
+    {
+      "EN": "farm",
+      "EG": "Aizba \ufecb\ufe7b\ufeb0\ufe91\ufe77\ufe94",
+      "extra_info": "environment: farming"
+    },
+    {
+      "EN": "fast",
+      "EG": "sareeA \ufeb3\ufe77\ufeae\ufef3\ufeca",
+      "extra_info": "time: speed"
+    },
+    {
+      "EN": "fast",
+      "EG": "muQaddim \ufee3\ufe79\ufed8\ufe77\ufeaa\ufe7c\ufe7a\ufee1",
+      "extra_info": "time: time"
+    },
+    {
+      "EN": "fast",
+      "EG": "Saam \ufebb\ufe8e\ufe76\ufee1",
+      "extra_info": "food: consumption"
+    },
+    {
+      "EN": "father",
+      "EG": "'abb \ufe83\ufe8f\ufe7c",
+      "extra_info": "society: family"
+    },
+    {
+      "EN": "February",
+      "EG": "fibraayir \ufed3\ufe7b\ufe92\ufeae\ufe8d\ufe76\ufef3\ufe7b\ufeae",
+      "extra_info": "time: calendar"
+    },
+    {
+      "EN": "feed",
+      "EG": "'akkil \ufe83\ufedb\ufe7d\ufe7b\ufede",
+      "extra_info": "food: consumption"
+    },
+    {
+      "EN": "female",
+      "EG": "'unthawi \ufe83\ufe78\ufee7\ufe9c\ufe77\ufeee\ufef1",
+      "extra_info": "people: attributes"
+    },
+    {
+      "EN": "female",
+      "EG": "nitaeya \ufee7\ufe7b\ufe98\ufe8e\ufe76\ufef3\ufe77\ufe94",
+      "extra_info": "environment: animals"
+    },
+    {
+      "EN": "female",
+      "EG": "'untha \ufe83\ufe78\ufee7\ufe9c\ufef0",
+      "extra_info": "people: attributes"
+    },
+    {
+      "EN": "female",
+      "EG": "nitaeya \ufee7\ufe7b\ufe98\ufe8e\ufe76\ufef3\ufe77\ufe94",
+      "extra_info": "environment: animals"
+    },
+    {
+      "EN": "fifteen",
+      "EG": "Kamastaashar \ufea7\ufe77\ufee4\ufe77\ufeb4\ufe98\ufe8e\ufe76\ufeb7\ufe77\ufeae",
+      "extra_info": "quantity: numbers"
+    },
+    {
+      "EN": "fifth",
+      "EG": "Kaemis \ufea7\ufe8e\ufe76\ufee3\ufe7b\ufeb2",
+      "extra_info": "quantity: numbers"
+    },
+    {
+      "EN": "fifty",
+      "EG": "Kamseen \ufea7\ufe77\ufee4\ufeb4\ufef4\ufee6",
+      "extra_info": "quantity: numbers"
+    },
+    {
+      "EN": "fight",
+      "EG": "'ithaerib maAa \ufe87\ufe97\ufea4\ufe8e\ufe76\ufead\ufe7a\ufe8f \ufee3\ufe77\ufeca\ufe76",
+      "extra_info": "society: military"
+    },
+    {
+      "EN": "find",
+      "EG": "lee'i \ufedf\ufef4\ufed8\ufef2",
+      "extra_info": "intellect: search"
+    },
+    {
+      "EN": "find",
+      "EG": "dawwar Aala \ufea9\ufe76\ufeed\ufe7c\ufe76\ufead \ufecb\ufe77\ufee0\ufef0",
+      "extra_info": "intellect: search"
+    },
+    {
+      "EN": "finger",
+      "EG": "SubaaA \ufebb\ufe79\ufe92\ufe8e\ufe76\ufec9",
+      "extra_info": "people: external parts"
+    },
+    {
+      "EN": "fire",
+      "EG": "naar \ufee7\ufe8e\ufe76\ufead",
+      "extra_info": "environment: fire"
+    },
+    {
+      "EN": "fire",
+      "EG": "haree'a \ufea3\ufe77\ufeae\ufef3\ufed8\ufe77\ufe94",
+      "extra_info": "environment: fire"
+    },
+    {
+      "EN": "fire",
+      "EG": "Tarad \ufec3\ufe77\ufeae\ufe76\ufea9",
+      "extra_info": "work: state"
+    },
+    {
+      "EN": "fire",
+      "EG": "Darab naar \ufebf\ufe77\ufeae\ufe76\ufe8f \ufee7\ufe8e\ufe76\ufead",
+      "extra_info": "society: violence"
+    },
+    {
+      "EN": "fire",
+      "EG": "rafad \ufead\ufe76\ufed3\ufe77\ufeaa",
+      "extra_info": "work: state"
+    },
+    {
+      "EN": "five",
+      "EG": "Kamsa \ufea7\ufe77\ufee4\ufeb4\ufe77\ufe94",
+      "extra_info": "quantity: numbers"
+    },
+    {
+      "EN": "flat",
+      "EG": "musaTTah \ufee3\ufe79\ufeb4\ufe77\ufec4\ufe7d\ufe77\ufea2",
+      "extra_info": "qualities: shapes"
+    },
+    {
+      "EN": "flat",
+      "EG": "sha''a \ufeb7\ufe77\ufed8\ufe7d\ufe77\ufe94",
+      "extra_info": "buildings: buildings"
+    },
+    {
+      "EN": "floor",
+      "EG": "door \ufea9\ufeed\ufead",
+      "extra_info": "buildings: parts"
+    },
+    {
+      "EN": "floor",
+      "EG": "'arDiyya \ufe83\ufead\ufebf\ufe7b\ufef4\ufe7d\ufe77\ufe94",
+      "extra_info": "buildings: parts"
+    },
+    {
+      "EN": "flower",
+      "EG": "ward \ufeed\ufe76\ufead\ufea9",
+      "extra_info": "environment: plants"
+    },
+    {
+      "EN": "follow",
+      "EG": "lihi' \ufedf\ufe7b\ufea4\ufe7b\ufed6",
+      "extra_info": "movement: move somebody"
+    },
+    {
+      "EN": "follow",
+      "EG": "Taarid \ufec3\ufe8e\ufe76\ufead\ufe7a\ufea9",
+      "extra_info": "movement: move somebody"
+    },
+    {
+      "EN": "follow",
+      "EG": "tabaA \ufe97\ufe77\ufe92\ufe77\ufeca",
+      "extra_info": "quantity: sequence"
+    },
+    {
+      "EN": "follow",
+      "EG": "fihim \ufed3\ufe7b\ufeec\ufe7b\ufee2",
+      "extra_info": "intellect: understand"
+    },
+    {
+      "EN": "follow",
+      "EG": "tabaA \ufe97\ufe77\ufe92\ufe77\ufeca",
+      "extra_info": "influence: control"
+    },
+    {
+      "EN": "food",
+      "EG": "'akl \ufe83\ufedb\ufede",
+      "extra_info": "food: consumption"
+    },
+    {
+      "EN": "foot",
+      "EG": "rigl \ufead\ufe7a\ufe9f\ufede",
+      "extra_info": "people: external parts"
+    },
+    {
+      "EN": "foot",
+      "EG": "Qadam \ufed7\ufe77\ufeaa\ufe76\ufee1",
+      "extra_info": "quantity: measure"
+    },
+    {
+      "EN": "forest",
+      "EG": "Gaeba \ufecf\ufe8e\ufe76\ufe91\ufe77\ufe94",
+      "extra_info": "environment: landscape"
+    },
+    {
+      "EN": "fork",
+      "EG": "shooka \ufeb7\ufeee\ufedb\ufe77\ufe94",
+      "extra_info": "food: tableware"
+    },
+    {
+      "EN": "forty",
+      "EG": "'arbiAeen \ufe83\ufead\ufe91\ufe7b\ufecc\ufef4\ufee6",
+      "extra_info": "quantity: numbers"
+    },
+    {
+      "EN": "four",
+      "EG": "'arbaAa \ufe83\ufead\ufe91\ufe77\ufeca\ufe76",
+      "extra_info": "quantity: numbers"
+    },
+    {
+      "EN": "fourteen",
+      "EG": "'arbaAa Aashara \ufe83\ufead\ufe91\ufe77\ufecc\ufe77\ufe94 \ufecb\ufe77\ufeb8\ufe77\ufeae\ufe76\ufe93",
+      "extra_info": "quantity: numbers"
+    },
+    {
+      "EN": "Friday",
+      "EG": "yoom ilgumAa \ufef3\ufeee\ufee1 \ufe8d\ufe7a\ufedf\ufea0\ufe79\ufee4\ufecc\ufe77\ufe94",
+      "extra_info": "time: calendar"
+    },
+    {
+      "EN": "friend",
+      "EG": "Saahib \ufebb\ufe8e\ufe76\ufea3\ufe7b\ufe90",
+      "extra_info": "society: friends"
+    },
+    {
+      "EN": "game",
+      "EG": "liAba \ufedf\ufe7b\ufecc\ufe92\ufe77\ufe94",
+      "extra_info": "society: leisure"
+    },
+    {
+      "EN": "garden",
+      "EG": "gineena \ufe9f\ufe7b\ufee8\ufef4\ufee8\ufe77\ufe94",
+      "extra_info": "buildings: external"
+    },
+    {
+      "EN": "gift",
+      "EG": "hidiyya \ufeeb\ufe7b\ufeaa\ufe7a\ufef3\ufe7d\ufe77\ufe94",
+      "extra_info": "possessions: transfer"
+    },
+    {
+      "EN": "gift",
+      "EG": "baraaAa \ufe91\ufe77\ufeae\ufe8d\ufe76\ufecb\ufe77\ufe94",
+      "extra_info": "character: ability"
+    },
+    {
+      "EN": "glass",
+      "EG": "kubbaeya \ufedb\ufe79\ufe92\ufe7d\ufe8e\ufe76\ufef3\ufe77\ufe94",
+      "extra_info": "food: tableware"
+    },
+    {
+      "EN": "glass",
+      "EG": "'izaez \ufe87\ufeaf\ufe8d\ufe76\ufeaf",
+      "extra_info": "materials: building"
+    },
+    {
+      "EN": "glass",
+      "EG": "kaes \ufedb\ufe8e\ufe76\ufeb1",
+      "extra_info": "food: tableware"
+    },
+    {
+      "EN": "go",
+      "EG": "'izhab \ufe87\ufeab\ufeeb\ufe77\ufe90",
+      "extra_info": "quantity: sequence"
+    },
+    {
+      "EN": "God",
+      "EG": "raw'oof \ufead\ufe76\ufe85\ufeed\ufed1",
+      "extra_info": "spirit: religion"
+    },
+    {
+      "EN": "gold",
+      "EG": "zahab \ufeab\ufe76\ufeeb\ufe77\ufe90",
+      "extra_info": "materials: jewelry"
+    },
+    {
+      "EN": "good",
+      "EG": "Aael \ufecb\ufe8e\ufe76\ufedd",
+      "extra_info": "qualities: good"
+    },
+    {
+      "EN": "grandfather",
+      "EG": "gidd \ufe9f\ufe7b\ufeaa\ufe7c",
+      "extra_info": "society: family"
+    },
+    {
+      "EN": "grandmother",
+      "EG": "gidda \ufe9f\ufe7b\ufeaa\ufe7c\ufe76\ufe93",
+      "extra_info": "society: family"
+    },
+    {
+      "EN": "grass",
+      "EG": "bangw \ufe91\ufe8e\ufe76\ufee7\ufea0\ufeee",
+      "extra_info": "people: vices"
+    },
+    {
+      "EN": "grass",
+      "EG": "nigeela \ufee7\ufe7b\ufea0\ufef4\ufee0\ufe77\ufe94",
+      "extra_info": "environment: cultivation"
+    },
+    {
+      "EN": "ground",
+      "EG": "maThoon \ufee3\ufe77\ufec4\ufea4\ufeee\ufee5",
+      "extra_info": "food: preparation"
+    },
+    {
+      "EN": "grow",
+      "EG": "nabbit \ufee7\ufe77\ufe92\ufe7d\ufe7b\ufe96",
+      "extra_info": "environment: cultivation"
+    },
+    {
+      "EN": "grow",
+      "EG": "zaraA \ufeaf\ufe76\ufead\ufe76\ufec9",
+      "extra_info": "environment: cultivation"
+    },
+    {
+      "EN": "gun",
+      "EG": "musaddas \ufee3\ufe79\ufeb4\ufe77\ufeaa\ufe7c\ufe76\ufeb1",
+      "extra_info": "society: weapons"
+    },
+    {
+      "EN": "gun",
+      "EG": "bunduQiyya \ufe91\ufe79\ufee8\ufeaa\ufe78\ufed7\ufe7b\ufef4\ufe7d\ufe77\ufe94",
+      "extra_info": "society: weapons"
+    },
+    {
+      "EN": "half",
+      "EG": "nuSS \ufee7\ufe79\ufeba\ufe7c",
+      "extra_info": "quantity: numbers"
+    },
+    {
+      "EN": "hand",
+      "EG": "'ieed \ufe87\ufef3\ufeaa",
+      "extra_info": "people: external parts"
+    },
+    {
+      "EN": "hand",
+      "EG": "naewil \ufee7\ufe8e\ufe76\ufeed\ufe7a\ufedd",
+      "extra_info": "movement: move something"
+    },
+    {
+      "EN": "hang",
+      "EG": "shana' \ufeb7\ufe77\ufee8\ufe77\ufed6",
+      "extra_info": "society: punishment"
+    },
+    {
+      "EN": "hang",
+      "EG": "AallaQ \ufecb\ufe77\ufee0\ufe7d\ufe77\ufed6",
+      "extra_info": "technical: fixing"
+    },
+    {
+      "EN": "hard",
+      "EG": "SaAb \ufebb\ufe77\ufecc\ufe90",
+      "extra_info": "qualities: simple"
+    },
+    {
+      "EN": "hard",
+      "EG": "shideed \ufeb7\ufe7b\ufeaa\ufef3\ufeaa",
+      "extra_info": "qualities: durable"
+    },
+    {
+      "EN": "hard",
+      "EG": "bigadd \ufe91\ufe7b\ufea0\ufe77\ufeaa\ufe7c",
+      "extra_info": "quantity: quantity"
+    },
+    {
+      "EN": "hat",
+      "EG": "burneeTa \ufe91\ufe79\ufeae\ufee7\ufef4\ufec4\ufe77\ufe94",
+      "extra_info": "clothing: headgear"
+    },
+    {
+      "EN": "he",
+      "EG": "huwwa \ufeeb\ufe79\ufeee\ufe7c\ufe76",
+      "extra_info": "people: people"
+    },
+    {
+      "EN": "head",
+      "EG": "raas \ufead\ufe8d\ufe76\ufeb1",
+      "extra_info": "people: external parts"
+    },
+    {
+      "EN": "head",
+      "EG": "ra'ees \ufead\ufe76\ufe8b\ufef4\ufeb2",
+      "extra_info": "work: management"
+    },
+    {
+      "EN": "head",
+      "EG": "tazAam \ufe97\ufe77\ufeb0\ufecb\ufe77\ufee2",
+      "extra_info": "society: government"
+    },
+    {
+      "EN": "head",
+      "EG": "dimaeG \ufea9\ufe7a\ufee3\ufe8e\ufe76\ufecd",
+      "extra_info": "people: external parts"
+    },
+    {
+      "EN": "healthy",
+      "EG": "Sihhi \ufebb\ufe7b\ufea4\ufe7d\ufef2",
+      "extra_info": "health: other"
+    },
+    {
+      "EN": "hear",
+      "EG": "simiA \ufeb3\ufe7b\ufee4\ufe7b\ufeca",
+      "extra_info": "people: senses"
+    },
+    {
+      "EN": "heart",
+      "EG": "'alb \ufed7\ufe77\ufee0\ufe90",
+      "extra_info": "people: internal parts"
+    },
+    {
+      "EN": "heart",
+      "EG": "'alb \ufed7\ufe77\ufee0\ufe90",
+      "extra_info": "qualities: shapes"
+    },
+    {
+      "EN": "heaven",
+      "EG": "ilganna \ufe8d\ufe7a\ufedf\ufea0\ufe77\ufee8\ufe7d\ufe77\ufe94",
+      "extra_info": "spirit: religion"
+    },
+    {
+      "EN": "high",
+      "EG": "saTla \ufeb3\ufe77\ufec4\ufee0\ufe77\ufe94",
+      "extra_info": "people: vices"
+    },
+    {
+      "EN": "high",
+      "EG": "suTal \ufeb3\ufe79\ufec4\ufe77\ufede",
+      "extra_info": "people: vices"
+    },
+    {
+      "EN": "hill",
+      "EG": "till \ufe97\ufe7b\ufede\ufe7c",
+      "extra_info": "environment: landscape"
+    },
+    {
+      "EN": "hole",
+      "EG": "Kurm \ufea7\ufe79\ufeae\ufee1",
+      "extra_info": "qualities: shapes"
+    },
+    {
+      "EN": "hole",
+      "EG": "hufra \ufea3\ufe79\ufed4\ufeae\ufe76\ufe93",
+      "extra_info": "buildings: external"
+    },
+    {
+      "EN": "hole",
+      "EG": "guhr \ufe9f\ufe79\ufea4\ufeae",
+      "extra_info": "qualities: shapes"
+    },
+    {
+      "EN": "horse",
+      "EG": "farasa \ufed3\ufe77\ufeae\ufe76\ufeb3\ufe77\ufe94",
+      "extra_info": "environment: farm animals"
+    },
+    {
+      "EN": "horse",
+      "EG": "huSaan \ufea3\ufe79\ufebc\ufe8e\ufe76\ufee5",
+      "extra_info": "environment: farm animals"
+    },
+    {
+      "EN": "horse",
+      "EG": "muhr \ufee3\ufe79\ufeec\ufeae",
+      "extra_info": "environment: farm animals"
+    },
+    {
+      "EN": "hospital",
+      "EG": "mustashfa \ufee3\ufe79\ufeb4\ufe98\ufe77\ufeb8\ufed4\ufef0",
+      "extra_info": "work: workplace"
+    },
+    {
+      "EN": "hot",
+      "EG": "suKn \ufeb3\ufe79\ufea8\ufee6",
+      "extra_info": "environment: weather"
+    },
+    {
+      "EN": "hot",
+      "EG": "haemi \ufea3\ufe8e\ufe76\ufee3\ufef2",
+      "extra_info": "food: properties"
+    },
+    {
+      "EN": "hot",
+      "EG": "harr \ufea3\ufe77\ufeae\ufe7c",
+      "extra_info": "environment: weather"
+    },
+    {
+      "EN": "hotel",
+      "EG": "lookanda \ufedf\ufeee\ufedb\ufe77\ufee8\ufeaa\ufe76\ufe93",
+      "extra_info": "work: workplace"
+    },
+    {
+      "EN": "hour",
+      "EG": "saeAa \ufeb3\ufe8e\ufe76\ufecb\ufe77\ufe94",
+      "extra_info": "time: time"
+    },
+    {
+      "EN": "hundred",
+      "EG": "miyya \ufee3\ufe7b\ufef4\ufe7d\ufe77\ufe94",
+      "extra_info": "quantity: numbers"
+    },
+    {
+      "EN": "husband",
+      "EG": "gooz \ufe9f\ufeee\ufeaf",
+      "extra_info": "society: family"
+    },
+    {
+      "EN": "image",
+      "EG": "Suwra \ufebb\ufe79\ufeee\ufead\ufe76\ufe93",
+      "extra_info": "communication: visual"
+    },
+    {
+      "EN": "inch",
+      "EG": "booSa \ufe91\ufeee\ufebb\ufe77\ufe94",
+      "extra_info": "quantity: measure"
+    },
+    {
+      "EN": "injury",
+      "EG": "garh \ufe9f\ufe77\ufeae\ufea1",
+      "extra_info": "health: injury"
+    },
+    {
+      "EN": "instrument",
+      "EG": "gihaez \ufe9f\ufe7b\ufeec\ufe8e\ufe76\ufeaf",
+      "extra_info": "work: tools"
+    },
+    {
+      "EN": "instrument",
+      "EG": "Aa'd \ufecb\ufe77\ufed8\ufeaa",
+      "extra_info": "society: law"
+    },
+    {
+      "EN": "instrument",
+      "EG": "'ela mooseeQaya \ufe81\ufedf\ufe77\ufe94 \ufee3\ufeee\ufeb3\ufef4\ufed8\ufe77\ufef4\ufe77\ufe94",
+      "extra_info": "society: arts"
+    },
+    {
+      "EN": "island",
+      "EG": "gizeera \ufe9f\ufe7b\ufeb0\ufef3\ufeae\ufe76\ufe93",
+      "extra_info": "environment: landscape"
+    },
+    {
+      "EN": "it",
+      "EG": "huwwa \ufeeb\ufe79\ufeee\ufe7c\ufe76",
+      "extra_info": "people: people"
+    },
+    {
+      "EN": "it",
+      "EG": "ha \ufeec\ufe8e\ufe76",
+      "extra_info": "people: people"
+    },
+    {
+      "EN": "it",
+      "EG": "ildunya \ufe8d\ufe7a\ufedf\ufeaa\ufe78\ufee7\ufef4\ufe8e\ufe76",
+      "extra_info": "people: people"
+    },
+    {
+      "EN": "January",
+      "EG": "yanaeyir \ufef3\ufe8e\ufe76\ufee7\ufe8e\ufe76\ufef3\ufe7b\ufeae",
+      "extra_info": "time: calendar"
+    },
+    {
+      "EN": "job",
+      "EG": "waZeefa \ufeed\ufe76\ufec7\ufef4\ufed4\ufe77\ufe94",
+      "extra_info": "work: state"
+    },
+    {
+      "EN": "juice",
+      "EG": "AaSeer \ufecb\ufe77\ufebc\ufef4\ufeae",
+      "extra_info": "food: fruit"
+    },
+    {
+      "EN": "July",
+      "EG": "yooleew \ufef3\ufeee\ufedf\ufef4\ufeee",
+      "extra_info": "time: calendar"
+    },
+    {
+      "EN": "jump",
+      "EG": "'afaz \ufed7\ufe77\ufed4\ufe77\ufeb0",
+      "extra_info": "transport: other"
+    },
+    {
+      "EN": "June",
+      "EG": "yooneew \ufef3\ufeee\ufee7\ufef4\ufeee",
+      "extra_info": "time: calendar"
+    },
+    {
+      "EN": "key",
+      "EG": "muftaeh \ufee3\ufe79\ufed4\ufe98\ufe8e\ufe76\ufea1",
+      "extra_info": "buildings: security"
+    },
+    {
+      "EN": "kill",
+      "EG": "mawwit \ufee3\ufe77\ufeee\ufe7c\ufe7a\ufe95",
+      "extra_info": "society: violence"
+    },
+    {
+      "EN": "kilogram",
+      "EG": "keelw \ufedb\ufef4\ufee0\ufeee",
+      "extra_info": "quantity: measure"
+    },
+    {
+      "EN": "king",
+      "EG": "malik \ufee3\ufe77\ufee0\ufe7b\ufeda",
+      "extra_info": "society: government"
+    },
+    {
+      "EN": "kitchen",
+      "EG": "maTbaK \ufee3\ufe77\ufec4\ufe92\ufe77\ufea6",
+      "extra_info": "buildings: rooms"
+    },
+    {
+      "EN": "knee",
+      "EG": "rukba \ufead\ufe78\ufedb\ufe92\ufe77\ufe94",
+      "extra_info": "people: external parts"
+    },
+    {
+      "EN": "lake",
+      "EG": "buhayra \ufe91\ufe79\ufea4\ufe77\ufef4\ufeae\ufe76\ufe93",
+      "extra_info": "environment: water"
+    },
+    {
+      "EN": "laptop",
+      "EG": "labtoob \ufefb\ufe91\ufe98\ufeee\ufe8f",
+      "extra_info": "technical: engineering"
+    },
+    {
+      "EN": "lawyer",
+      "EG": "muhaemi \ufee3\ufe79\ufea4\ufe8e\ufe76\ufee3\ufef2",
+      "extra_info": "work: profession"
+    },
+    {
+      "EN": "leaf",
+      "EG": "wara' \ufeed\ufe76\ufead\ufe76\ufed5",
+      "extra_info": "environment: plants"
+    },
+    {
+      "EN": "learn",
+      "EG": "'itAallim \ufe87\ufe97\ufecc\ufe77\ufee0\ufe7d\ufe7b\ufee2",
+      "extra_info": "education: study"
+    },
+    {
+      "EN": "leg",
+      "EG": "rigl \ufead\ufe7a\ufe9f\ufede",
+      "extra_info": "people: external parts"
+    },
+    {
+      "EN": "lemon",
+      "EG": "turung \ufe97\ufe79\ufeae\ufe78\ufee7\ufe9e",
+      "extra_info": "food: fruit"
+    },
+    {
+      "EN": "lemon",
+      "EG": "laymoon baladi \ufedf\ufe77\ufef4\ufee4\ufeee\ufee5 \ufe91\ufe77\ufee0\ufe77\ufeaa\ufef1",
+      "extra_info": "food: fruit"
+    },
+    {
+      "EN": "letter",
+      "EG": "gawaeb \ufe9f\ufe77\ufeee\ufe8d\ufe76\ufe8f",
+      "extra_info": "communication: written"
+    },
+    {
+      "EN": "letter",
+      "EG": "harf \ufea3\ufe77\ufeae\ufed1",
+      "extra_info": "communication: written"
+    },
+    {
+      "EN": "library",
+      "EG": "maktaba \ufee3\ufe77\ufedc\ufe98\ufe77\ufe92\ufe77\ufe94",
+      "extra_info": "work: workplace"
+    },
+    {
+      "EN": "lift",
+      "EG": "'asanseer \ufe83\ufeb3\ufe8e\ufe76\ufee7\ufeb4\ufef4\ufeae",
+      "extra_info": "buildings: parts"
+    },
+    {
+      "EN": "lift",
+      "EG": "tawSeela \ufe97\ufe77\ufeee\ufebb\ufef4\ufee0\ufe77\ufe94",
+      "extra_info": "movement: move somebody"
+    },
+    {
+      "EN": "lift",
+      "EG": "rafaA \ufead\ufe76\ufed3\ufe77\ufeca",
+      "extra_info": "movement: up and down"
+    },
+    {
+      "EN": "light",
+      "EG": "noor \ufee7\ufeee\ufead",
+      "extra_info": "environment: light"
+    },
+    {
+      "EN": "light",
+      "EG": "wallaA \ufeed\ufe76\ufedf\ufe7d\ufe77\ufeca",
+      "extra_info": "environment: fire"
+    },
+    {
+      "EN": "light",
+      "EG": "faetih \ufed3\ufe8e\ufe76\ufe97\ufe7b\ufea2",
+      "extra_info": "qualities: colours"
+    },
+    {
+      "EN": "light",
+      "EG": "Kafeef \ufea7\ufe77\ufed4\ufef4\ufed2",
+      "extra_info": "quantity: measure"
+    },
+    {
+      "EN": "light",
+      "EG": "noor \ufee7\ufeee\ufead",
+      "extra_info": "technical: electrical"
+    },
+    {
+      "EN": "light",
+      "EG": "nawwar \ufee7\ufe77\ufeee\ufe7c\ufe76\ufead",
+      "extra_info": "environment: light"
+    },
+    {
+      "EN": "lip",
+      "EG": "shiffa \ufeb7\ufe7b\ufed4\ufe7d\ufe77\ufe94",
+      "extra_info": "people: external parts"
+    },
+    {
+      "EN": "listen",
+      "EG": "simiA \ufeb3\ufe7b\ufee4\ufe7b\ufeca",
+      "extra_info": "people: senses"
+    },
+    {
+      "EN": "little",
+      "EG": "SuGayar \ufebb\ufe79\ufed0\ufe77\ufef4\ufe77\ufeae",
+      "extra_info": "quantity: size"
+    },
+    {
+      "EN": "little",
+      "EG": "SuGayar \ufebb\ufe79\ufed0\ufe77\ufef4\ufe77\ufeae",
+      "extra_info": "people: attributes"
+    },
+    {
+      "EN": "location",
+      "EG": "makaen \ufee3\ufe77\ufedc\ufe8e\ufe76\ufee5",
+      "extra_info": "movement: position"
+    },
+    {
+      "EN": "loose",
+      "EG": "saeyib \ufeb3\ufe8e\ufe76\ufef3\ufe7b\ufe90",
+      "extra_info": "change: assemble"
+    },
+    {
+      "EN": "lose",
+      "EG": "DayyaA \ufebf\ufe77\ufef4\ufe7d\ufe77\ufeca",
+      "extra_info": "intellect: search"
+    },
+    {
+      "EN": "lose",
+      "EG": "'itGalab \ufe87\ufe97\ufed0\ufe77\ufee0\ufe77\ufe90",
+      "extra_info": "activity: win"
+    },
+    {
+      "EN": "lose",
+      "EG": "Kisir \ufea7\ufe7b\ufeb4\ufe7b\ufeae",
+      "extra_info": "possessions: benefits"
+    },
+    {
+      "EN": "loud",
+      "EG": "Aaeli \ufecb\ufe8e\ufe76\ufedf\ufef2",
+      "extra_info": "people: senses"
+    },
+    {
+      "EN": "low",
+      "EG": "waaTi \ufeed\ufe8d\ufe76\ufec3\ufef2",
+      "extra_info": "quantity: degree"
+    },
+    {
+      "EN": "low",
+      "EG": "waaTi \ufeed\ufe8d\ufe76\ufec3\ufef2",
+      "extra_info": "quantity: quantity"
+    },
+    {
+      "EN": "magazine",
+      "EG": "magalla \ufee3\ufe77\ufea0\ufe77\ufee0\ufe7d\ufe77\ufe94",
+      "extra_info": "communication: publication"
+    },
+    {
+      "EN": "male",
+      "EG": "zakar \ufeab\ufe76\ufedb\ufe77\ufeae",
+      "extra_info": "environment: animals"
+    },
+    {
+      "EN": "male",
+      "EG": "rugooli \ufead\ufe78\ufe9f\ufeee\ufedf\ufef2",
+      "extra_info": "people: gender"
+    },
+    {
+      "EN": "man",
+      "EG": "raagil \ufead\ufe8d\ufe76\ufe9f\ufe7b\ufede",
+      "extra_info": "people: people"
+    },
+    {
+      "EN": "manager",
+      "EG": "mudeer \ufee3\ufe79\ufeaa\ufef3\ufeae",
+      "extra_info": "work: management"
+    },
+    {
+      "EN": "map",
+      "EG": "KareeTa \ufea7\ufe77\ufeae\ufef3\ufec4\ufe77\ufe94",
+      "extra_info": "communication: visual"
+    },
+    {
+      "EN": "March",
+      "EG": "maeris \ufee3\ufe8e\ufe76\ufead\ufe7a\ufeb1",
+      "extra_info": "time: calendar"
+    },
+    {
+      "EN": "marriage",
+      "EG": "zawaeg \ufeaf\ufe76\ufeed\ufe8d\ufe76\ufe9d",
+      "extra_info": "society: marriage"
+    },
+    {
+      "EN": "marry",
+      "EG": "'itgawwiz \ufe87\ufe97\ufea0\ufe77\ufeee\ufe7c\ufe7a\ufeaf",
+      "extra_info": "society: marriage"
+    },
+    {
+      "EN": "material",
+      "EG": "Qumaesh \ufed7\ufe79\ufee4\ufe8e\ufe76\ufeb5",
+      "extra_info": "materials: clothing"
+    },
+    {
+      "EN": "material",
+      "EG": "madda \ufee3\ufe8e\ufe76\ufea9\ufe7c\ufe76\ufe93",
+      "extra_info": "materials: things"
+    },
+    {
+      "EN": "material",
+      "EG": "gooK \ufe9f\ufeee\ufea5",
+      "extra_info": "materials: clothing"
+    },
+    {
+      "EN": "May",
+      "EG": "mayw \ufee3\ufe8e\ufe76\ufef3\ufeee",
+      "extra_info": "time: calendar"
+    },
+    {
+      "EN": "mean",
+      "EG": "baKeel \ufe91\ufe77\ufea8\ufef4\ufede",
+      "extra_info": "character: generous"
+    },
+    {
+      "EN": "mean",
+      "EG": "Aana \ufecb\ufe77\ufee8\ufef0",
+      "extra_info": "communication: language"
+    },
+    {
+      "EN": "mean",
+      "EG": "l'eem \ufedf\ufe8c\ufef4\ufee2",
+      "extra_info": "character: kind"
+    },
+    {
+      "EN": "medicine",
+      "EG": "dawa' \ufea9\ufe76\ufeed\ufe8d\ufe76\ufe80",
+      "extra_info": "health: treatment"
+    },
+    {
+      "EN": "medicine",
+      "EG": "Tibb \ufec3\ufe7b\ufe90\ufe7c",
+      "extra_info": "work: profession"
+    },
+    {
+      "EN": "melt",
+      "EG": "saeh \ufeb3\ufe8e\ufe76\ufea1",
+      "extra_info": "technical: science"
+    },
+    {
+      "EN": "metal",
+      "EG": "maAdan \ufee3\ufe77\ufecc\ufeaa\ufe76\ufee5",
+      "extra_info": "materials: engineering"
+    },
+    {
+      "EN": "meter",
+      "EG": "Aaddaed \ufecb\ufe77\ufeaa\ufe7c\ufe8d\ufe76\ufea9",
+      "extra_info": "transport: road"
+    },
+    {
+      "EN": "million",
+      "EG": "'arnab 'aKDar \ufe83\ufead\ufee7\ufe77\ufe90 \ufe83\ufea7\ufec0\ufe77\ufeae",
+      "extra_info": "possessions: money"
+    },
+    {
+      "EN": "million",
+      "EG": "'arnab 'ahmar \ufe83\ufead\ufee7\ufe77\ufe90 \ufe83\ufea3\ufee4\ufe77\ufeae",
+      "extra_info": "possessions: money"
+    },
+    {
+      "EN": "Monday",
+      "EG": "yoom il'itneen \ufef3\ufeee\ufee1 \ufe8d\ufe7a\ufedf\ufe88\ufe97\ufee8\ufef4\ufee6",
+      "extra_info": "time: calendar"
+    },
+    {
+      "EN": "money",
+      "EG": "filoos \ufed3\ufe7b\ufee0\ufeee\ufeb1",
+      "extra_info": "possessions: money"
+    },
+    {
+      "EN": "month",
+      "EG": "shahr \ufeb7\ufe77\ufeec\ufeae",
+      "extra_info": "time: calendar"
+    },
+    {
+      "EN": "moon",
+      "EG": "Qamar \ufed7\ufe77\ufee4\ufe77\ufeae",
+      "extra_info": "environment: sky"
+    },
+    {
+      "EN": "morning",
+      "EG": "Subh \ufebb\ufe79\ufe92\ufea2",
+      "extra_info": "time: time"
+    },
+    {
+      "EN": "morning",
+      "EG": "'abl ilDuhr \ufed7\ufe77\ufe92\ufede \ufe8d\ufe7a\ufedf\ufec0\ufe79\ufeec\ufeae",
+      "extra_info": "time: time"
+    },
+    {
+      "EN": "mother",
+      "EG": "walda \ufeed\ufe8d\ufe76\ufedf\ufeaa\ufe76\ufe93",
+      "extra_info": "society: family"
+    },
+    {
+      "EN": "mouse",
+      "EG": "faar \ufed3\ufe8e\ufe76\ufead",
+      "extra_info": "environment: animals"
+    },
+    {
+      "EN": "mouth",
+      "EG": "bu'' \ufe91\ufe79\ufed6\ufe7c",
+      "extra_info": "people: external parts"
+    },
+    {
+      "EN": "music",
+      "EG": "mazzeeka \ufee3\ufe77\ufeb0\ufe7c\ufef3\ufedc\ufe8e\ufe76",
+      "extra_info": "society: arts"
+    },
+    {
+      "EN": "narrow",
+      "EG": "Daya' \ufebf\ufe77\ufef4\ufe77\ufed6",
+      "extra_info": "quantity: size"
+    },
+    {
+      "EN": "nature",
+      "EG": "TabeeAa \ufec3\ufe77\ufe92\ufef4\ufecc\ufe77\ufe94",
+      "extra_info": "environment: landscape"
+    },
+    {
+      "EN": "neck",
+      "EG": "ra'aba \ufead\ufe76\ufed7\ufe77\ufe92\ufe77\ufe94",
+      "extra_info": "people: external parts"
+    },
+    {
+      "EN": "neck",
+      "EG": "'afa \ufed7\ufe77\ufed4\ufe77\ufe94",
+      "extra_info": "people: external parts"
+    },
+    {
+      "EN": "needle",
+      "EG": "'ibra \ufe87\ufe91\ufeae\ufe76\ufe93",
+      "extra_info": "work: tools"
+    },
+    {
+      "EN": "network",
+      "EG": "shabaka \ufeb7\ufe77\ufe92\ufe77\ufedc\ufe77\ufe94",
+      "extra_info": "communication: transmission"
+    },
+    {
+      "EN": "newspaper",
+      "EG": "gareeda \ufe9f\ufe77\ufeae\ufef3\ufeaa\ufe76\ufe93",
+      "extra_info": "communication: publication"
+    },
+    {
+      "EN": "nice",
+      "EG": "laTeef \ufedf\ufe77\ufec4\ufef4\ufed2",
+      "extra_info": "emotion: please"
+    },
+    {
+      "EN": "nice",
+      "EG": "hilw \ufea3\ufe7b\ufee0\ufeee",
+      "extra_info": "qualities: attractive"
+    },
+    {
+      "EN": "nine",
+      "EG": "tisAa \ufe97\ufe7b\ufeb4\ufecc\ufe77\ufe94",
+      "extra_info": "quantity: numbers"
+    },
+    {
+      "EN": "nineteen",
+      "EG": "tisaAit aashar \ufe97\ufe7b\ufeb4\ufe77\ufecc\ufe7b\ufe94 \ufe8d\ufe76\ufeb7\ufe77\ufeae",
+      "extra_info": "quantity: numbers"
+    },
+    {
+      "EN": "ninety",
+      "EG": "tisaAeen \ufe97\ufe7b\ufeb4\ufe77\ufecc\ufef4\ufee6",
+      "extra_info": "quantity: numbers"
+    },
+    {
+      "EN": "north",
+      "EG": "shamael \ufeb7\ufe77\ufee4\ufe8e\ufe76\ufedd",
+      "extra_info": "movement: position"
+    },
+    {
+      "EN": "nose",
+      "EG": "manaKeer \ufee3\ufe77\ufee8\ufe8e\ufe76\ufea7\ufef4\ufeae",
+      "extra_info": "people: external parts"
+    },
+    {
+      "EN": "November",
+      "EG": "noovimbir \ufee7\ufeee\ufb6c\ufe7b\ufee4\ufe92\ufe7b\ufeae",
+      "extra_info": "time: calendar"
+    },
+    {
+      "EN": "nuclear",
+      "EG": "zarri \ufeab\ufe76\ufead\ufe7c\ufef1",
+      "extra_info": "technical: science"
+    },
+    {
+      "EN": "number",
+      "EG": "Aadad \ufecb\ufe77\ufeaa\ufe76\ufea9",
+      "extra_info": "quantity: numbers"
+    },
+    {
+      "EN": "number",
+      "EG": "raQam \ufead\ufe76\ufed7\ufe77\ufee2",
+      "extra_info": "quantity: numbers"
+    },
+    {
+      "EN": "number",
+      "EG": "nimra \ufee7\ufe7b\ufee4\ufeae\ufe76\ufe93",
+      "extra_info": "quantity: numbers"
+    },
+    {
+      "EN": "ocean",
+      "EG": "muheeT \ufee3\ufe79\ufea4\ufef4\ufec2",
+      "extra_info": "environment: landscape"
+    },
+    {
+      "EN": "October",
+      "EG": "'uktoobar \ufe83\ufe78\ufedb\ufe98\ufeee\ufe91\ufe77\ufeae",
+      "extra_info": "time: calendar"
+    },
+    {
+      "EN": "office",
+      "EG": "maktab \ufee3\ufe77\ufedc\ufe98\ufe77\ufe90",
+      "extra_info": "work: workplace"
+    },
+    {
+      "EN": "old",
+      "EG": "kibeer \ufedb\ufe7b\ufe92\ufef4\ufeae",
+      "extra_info": "people: attributes"
+    },
+    {
+      "EN": "old",
+      "EG": "'adeem \ufed7\ufe77\ufeaa\ufef3\ufee2",
+      "extra_info": "qualities: condition"
+    },
+    {
+      "EN": "old",
+      "EG": "Aagooz \ufecb\ufe77\ufea0\ufeee\ufeaf",
+      "extra_info": "people: attributes"
+    },
+    {
+      "EN": "one",
+      "EG": "farda \ufed3\ufe77\ufeae\ufea9\ufe76\ufe93",
+      "extra_info": "quantity: numbers"
+    },
+    {
+      "EN": "one",
+      "EG": "hadd \ufea3\ufe77\ufeaa\ufe7c",
+      "extra_info": "people: people"
+    },
+    {
+      "EN": "page",
+      "EG": "saTh \ufeb3\ufe77\ufec4\ufea2",
+      "extra_info": "communication: written"
+    },
+    {
+      "EN": "pain",
+      "EG": "wagaA \ufeed\ufe76\ufe9f\ufe77\ufeca",
+      "extra_info": "people: senses"
+    },
+    {
+      "EN": "paint",
+      "EG": "dahan \ufea9\ufe76\ufeeb\ufe77\ufee6",
+      "extra_info": "materials: painting"
+    },
+    {
+      "EN": "paint",
+      "EG": "rasam \ufead\ufe76\ufeb3\ufe77\ufee2",
+      "extra_info": "society: arts"
+    },
+    {
+      "EN": "pants",
+      "EG": "kuloot \ufedb\ufe79\ufee0\ufeee\ufe95",
+      "extra_info": "clothing: underwear"
+    },
+    {
+      "EN": "paper",
+      "EG": "wara' \ufeed\ufe76\ufead\ufe76\ufed5",
+      "extra_info": "materials: paper"
+    },
+    {
+      "EN": "paper",
+      "EG": "gurnaal \ufe9f\ufe79\ufeae\ufee7\ufe8e\ufe76\ufedd",
+      "extra_info": "communication: publication"
+    },
+    {
+      "EN": "paper",
+      "EG": "bahth \ufe91\ufe77\ufea4\ufe9a",
+      "extra_info": "education: study"
+    },
+    {
+      "EN": "parent",
+      "EG": "waelideen \ufeed\ufe8d\ufe76\ufedf\ufe7b\ufeaa\ufef3\ufee6",
+      "extra_info": "society: family"
+    },
+    {
+      "EN": "park",
+      "EG": "ginya \ufe9f\ufe7b\ufee8\ufef4\ufe77\ufe94",
+      "extra_info": "environment: urban"
+    },
+    {
+      "EN": "park",
+      "EG": "rakan \ufead\ufe76\ufedb\ufe77\ufee6",
+      "extra_info": "transport: road"
+    },
+    {
+      "EN": "pass",
+      "EG": "marr \ufee3\ufe77\ufeae\ufe7c",
+      "extra_info": "movement: location"
+    },
+    {
+      "EN": "pass",
+      "EG": "nigih \ufee7\ufe7b\ufea0\ufe7b\ufea2",
+      "extra_info": "education: qualifications"
+    },
+    {
+      "EN": "pass",
+      "EG": "naewil \ufee7\ufe8e\ufe76\ufeed\ufe7a\ufedd",
+      "extra_info": "movement: location"
+    },
+    {
+      "EN": "patient",
+      "EG": "Aiyyaen \ufecb\ufe7b\ufef4\ufe7d\ufe8e\ufe76\ufee5",
+      "extra_info": "health: other"
+    },
+    {
+      "EN": "pattern",
+      "EG": "batroon \ufe91\ufe8e\ufe76\ufe97\ufeae\ufeed\ufee5",
+      "extra_info": "clothing: dressmaking"
+    },
+    {
+      "EN": "pattern",
+      "EG": "namoozag \ufee7\ufe77\ufee4\ufeee\ufeab\ufe76\ufe9d",
+      "extra_info": "state: situation"
+    },
+    {
+      "EN": "pay",
+      "EG": "'abD \ufed7\ufe77\ufe92\ufebe",
+      "extra_info": "work: pay"
+    },
+    {
+      "EN": "pay",
+      "EG": "sadd \ufeb3\ufe77\ufeaa\ufe7c",
+      "extra_info": "possessions: owing"
+    },
+    {
+      "EN": "pen",
+      "EG": "'alam gaff \ufed7\ufe77\ufee0\ufe77\ufee2 \ufe9f\ufe8e\ufe76\ufed1\ufe7c",
+      "extra_info": "materials: stationery"
+    },
+    {
+      "EN": "pen",
+      "EG": "'alam hibr \ufed7\ufe77\ufee0\ufe77\ufee2 \ufea3\ufe7b\ufe92\ufeae",
+      "extra_info": "communication: written"
+    },
+    {
+      "EN": "pen",
+      "EG": "'alam gaff \ufed7\ufe77\ufee0\ufe77\ufee2 \ufe9f\ufe8e\ufe76\ufed1\ufe7c",
+      "extra_info": "materials: stationery"
+    },
+    {
+      "EN": "pencil",
+      "EG": "'alam ruSaaS \ufed7\ufe77\ufee0\ufe77\ufee2 \ufead\ufe78\ufebb\ufe8e\ufe76\ufeb9",
+      "extra_info": "communication: written"
+    },
+    {
+      "EN": "person",
+      "EG": "nafar \ufee7\ufe77\ufed4\ufe77\ufeae",
+      "extra_info": "people: people"
+    },
+    {
+      "EN": "phone",
+      "EG": "tileefoon \ufe97\ufe7b\ufee0\ufef4\ufed4\ufeee\ufee5",
+      "extra_info": "communication: spoken"
+    },
+    {
+      "EN": "piece",
+      "EG": "hitta \ufea3\ufe7b\ufe98\ufe7d\ufe77\ufe94",
+      "extra_info": "quantity: proportion"
+    },
+    {
+      "EN": "pig",
+      "EG": "Kanzeer \ufea7\ufe77\ufee8\ufeb0\ufef3\ufeae",
+      "extra_info": "environment: animals"
+    },
+    {
+      "EN": "pink",
+      "EG": "bambi \ufe91\ufe77\ufee4\ufe92\ufef2",
+      "extra_info": "qualities: colours"
+    },
+    {
+      "EN": "plane",
+      "EG": "faara \ufed3\ufe8e\ufe76\ufead\ufe76\ufe93",
+      "extra_info": "work: tools"
+    },
+    {
+      "EN": "plane",
+      "EG": "Tayaara \ufec3\ufe77\ufef4\ufe8e\ufe76\ufead\ufe76\ufe93",
+      "extra_info": "transport: air"
+    },
+    {
+      "EN": "plastic",
+      "EG": "bilastik \ufe91\ufe7b\ufefc\ufeb3\ufe98\ufe7b\ufeda",
+      "extra_info": "materials: engineering"
+    },
+    {
+      "EN": "plate",
+      "EG": "Taba' \ufec3\ufe77\ufe92\ufe77\ufed6",
+      "extra_info": "food: tableware"
+    },
+    {
+      "EN": "play",
+      "EG": "tamtheeliyya \ufe97\ufe77\ufee4\ufe9c\ufef4\ufee0\ufe7b\ufef4\ufe7d\ufe77\ufe94",
+      "extra_info": "society: leisure"
+    },
+    {
+      "EN": "play",
+      "EG": "masrahiyya \ufee3\ufe77\ufeb4\ufeae\ufe76\ufea3\ufe7b\ufef4\ufe7d\ufe77\ufe94",
+      "extra_info": "society: arts"
+    },
+    {
+      "EN": "play",
+      "EG": "Aazaf \ufecb\ufe77\ufeb0\ufe76\ufed1",
+      "extra_info": "society: arts"
+    },
+    {
+      "EN": "play",
+      "EG": "liAb \ufedf\ufe7b\ufecc\ufe90",
+      "extra_info": "society: leisure"
+    },
+    {
+      "EN": "play",
+      "EG": "Kashsh \ufea7\ufe77\ufeb6\ufe7c",
+      "extra_info": "society: games"
+    },
+    {
+      "EN": "player",
+      "EG": "Aaezif \ufecb\ufe8e\ufe76\ufeaf\ufe7a\ufed1",
+      "extra_info": "work: profession"
+    },
+    {
+      "EN": "player",
+      "EG": "mumaththil \ufee3\ufe79\ufee4\ufe77\ufe9c\ufe7d\ufe7b\ufede",
+      "extra_info": "work: profession"
+    },
+    {
+      "EN": "player",
+      "EG": "laeAib \ufefb\ufecb\ufe7b\ufe90",
+      "extra_info": "society: games"
+    },
+    {
+      "EN": "pocket",
+      "EG": "geeb \ufe9f\ufef4\ufe90",
+      "extra_info": "clothing: parts"
+    },
+    {
+      "EN": "pool",
+      "EG": "hammaem \ufea3\ufe77\ufee4\ufe7d\ufe8e\ufe76\ufee1",
+      "extra_info": "environment: water"
+    },
+    {
+      "EN": "poor",
+      "EG": "maskeen \ufee3\ufe77\ufeb4\ufedc\ufef4\ufee6",
+      "extra_info": "character: pity"
+    },
+    {
+      "EN": "poor",
+      "EG": "fa'eer \ufed3\ufe77\ufed8\ufef4\ufeae",
+      "extra_info": "possessions: money"
+    },
+    {
+      "EN": "pork",
+      "EG": "lahma Kanzeer \ufedf\ufe77\ufea4\ufee4\ufe77\ufe94 \ufea7\ufe77\ufee8\ufeb0\ufef3\ufeae",
+      "extra_info": "food: meat"
+    },
+    {
+      "EN": "pound",
+      "EG": "gineeh \ufe9f\ufe7b\ufee8\ufef4\ufeea",
+      "extra_info": "possessions: money"
+    },
+    {
+      "EN": "pray",
+      "EG": "Salla \ufebb\ufe77\ufee0\ufe7d\ufef0",
+      "extra_info": "spirit: religion"
+    },
+    {
+      "EN": "president",
+      "EG": "ra'ees \ufead\ufe76\ufe8b\ufef4\ufeb2",
+      "extra_info": "society: government"
+    },
+    {
+      "EN": "priest",
+      "EG": "'aboona \ufe83\ufe91\ufeee\ufee7\ufe8e\ufe76",
+      "extra_info": "spirit: religion"
+    },
+    {
+      "EN": "prison",
+      "EG": "sign \ufeb3\ufe7b\ufea0\ufee6",
+      "extra_info": "society: punishment"
+    },
+    {
+      "EN": "push",
+      "EG": "daes \ufea9\ufe8d\ufe76\ufeb1",
+      "extra_info": "movement: push and pull"
+    },
+    {
+      "EN": "queen",
+      "EG": "malika \ufee3\ufe77\ufee0\ufe7b\ufedc\ufe77\ufe94",
+      "extra_info": "society: government"
+    },
+    {
+      "EN": "race",
+      "EG": "AunSur \ufecb\ufe79\ufee8\ufebc\ufe79\ufeae",
+      "extra_info": "society: nationality"
+    },
+    {
+      "EN": "race",
+      "EG": "saba' \ufeb3\ufe77\ufe92\ufe77\ufed6",
+      "extra_info": "society: sport"
+    },
+    {
+      "EN": "radio",
+      "EG": "radeew \ufead\ufe8d\ufe76\ufea9\ufef3\ufeee",
+      "extra_info": "communication: transmission"
+    },
+    {
+      "EN": "red",
+      "EG": "'ahmar \ufe83\ufea3\ufee4\ufe77\ufeae",
+      "extra_info": "qualities: colours"
+    },
+    {
+      "EN": "religion",
+      "EG": "diyaena \ufea9\ufe7a\ufef3\ufe8e\ufe76\ufee7\ufe77\ufe94",
+      "extra_info": "spirit: religion"
+    },
+    {
+      "EN": "reporter",
+      "EG": "Sahafi \ufebb\ufe77\ufea4\ufe77\ufed4\ufef2",
+      "extra_info": "work: profession"
+    },
+    {
+      "EN": "restaurant",
+      "EG": "maTAam \ufee3\ufe77\ufec4\ufecc\ufe77\ufee2",
+      "extra_info": "food: consumption"
+    },
+    {
+      "EN": "rice",
+      "EG": "ruzz \ufead\ufe78\ufeaf\ufe7c",
+      "extra_info": "food: pulses"
+    },
+    {
+      "EN": "rich",
+      "EG": "dasim \ufea9\ufe76\ufeb3\ufe7b\ufee2",
+      "extra_info": "food: properties"
+    },
+    {
+      "EN": "rich",
+      "EG": "Gani \ufecf\ufe77\ufee8\ufef2",
+      "extra_info": "possessions: money"
+    },
+    {
+      "EN": "right",
+      "EG": "ha'' \ufea3\ufe77\ufed6\ufe7c",
+      "extra_info": "intellect: fact"
+    },
+    {
+      "EN": "right",
+      "EG": "yimeen \ufef3\ufe7b\ufee4\ufef4\ufee6",
+      "extra_info": "movement: position"
+    },
+    {
+      "EN": "right",
+      "EG": "Sahh \ufebb\ufe77\ufea2\ufe7c",
+      "extra_info": "intellect: fact"
+    },
+    {
+      "EN": "right",
+      "EG": "maZbooT \ufee3\ufe77\ufec8\ufe92\ufeee\ufec1",
+      "extra_info": "qualities: good"
+    },
+    {
+      "EN": "right",
+      "EG": "maZbooT \ufee3\ufe77\ufec8\ufe92\ufeee\ufec1",
+      "extra_info": "clothing: dressmaking"
+    },
+    {
+      "EN": "right",
+      "EG": "ha'' \ufea3\ufe77\ufed6\ufe7c",
+      "extra_info": "possessions: benefits"
+    },
+    {
+      "EN": "ring",
+      "EG": "Kaetim \ufea7\ufe8e\ufe76\ufe97\ufe7b\ufee2",
+      "extra_info": "clothing: accessories"
+    },
+    {
+      "EN": "ring",
+      "EG": "Darab \ufebf\ufe77\ufeae\ufe76\ufe8f",
+      "extra_info": "communication: nonverbal"
+    },
+    {
+      "EN": "ring",
+      "EG": "hala'a \ufea3\ufe77\ufee0\ufe77\ufed8\ufe77\ufe94",
+      "extra_info": "qualities: shapes"
+    },
+    {
+      "EN": "river",
+      "EG": "nahr \ufee7\ufe77\ufeec\ufeae",
+      "extra_info": "environment: landscape"
+    },
+    {
+      "EN": "roof",
+      "EG": "saTh \ufeb3\ufe77\ufec4\ufea2",
+      "extra_info": "buildings: parts"
+    },
+    {
+      "EN": "room",
+      "EG": "'uooDa \ufe83\ufe78\ufeed\ufebf\ufe77\ufe94",
+      "extra_info": "buildings: rooms"
+    },
+    {
+      "EN": "room",
+      "EG": "makaen \ufee3\ufe77\ufedc\ufe8e\ufe76\ufee5",
+      "extra_info": "movement: position"
+    },
+    {
+      "EN": "root",
+      "EG": "gizr \ufe9f\ufe7b\ufeac\ufead",
+      "extra_info": "environment: plants"
+    },
+    {
+      "EN": "root",
+      "EG": "'aSl \ufe83\ufebb\ufede",
+      "extra_info": "environment: plants"
+    },
+    {
+      "EN": "run",
+      "EG": "magra \ufee3\ufe77\ufea0\ufeae\ufeef",
+      "extra_info": "environment: water"
+    },
+    {
+      "EN": "run",
+      "EG": "'adaar \ufe83\ufea9\ufe8d\ufe76\ufead",
+      "extra_info": "work: management"
+    },
+    {
+      "EN": "salt",
+      "EG": "malh \ufee3\ufe77\ufee0\ufea2",
+      "extra_info": "food: spices"
+    },
+    {
+      "EN": "Saturday",
+      "EG": "yoom ilsabt \ufef3\ufeee\ufee1 \ufe8d\ufe7a\ufedf\ufeb4\ufe77\ufe92\ufe96",
+      "extra_info": "time: calendar"
+    },
+    {
+      "EN": "school",
+      "EG": "madrasa \ufee3\ufe77\ufeaa\ufead\ufe76\ufeb3\ufe77\ufe94",
+      "extra_info": "education: other"
+    },
+    {
+      "EN": "science",
+      "EG": "Ailm \ufecb\ufe7b\ufee0\ufee2",
+      "extra_info": "education: discipline"
+    },
+    {
+      "EN": "screen",
+      "EG": "silk \ufeb3\ufe7b\ufee0\ufeda",
+      "extra_info": "buildings: fittings"
+    },
+    {
+      "EN": "screen",
+      "EG": "shaesha \ufeb7\ufe8e\ufe76\ufeb7\ufe77\ufe94",
+      "extra_info": "society: arts"
+    },
+    {
+      "EN": "sea",
+      "EG": "bahr \ufe91\ufe77\ufea4\ufeae",
+      "extra_info": "environment: water"
+    },
+    {
+      "EN": "season",
+      "EG": "moosim \ufee3\ufeee\ufeb3\ufe7b\ufee2",
+      "extra_info": "environment: weather"
+    },
+    {
+      "EN": "season",
+      "EG": "moosim \ufee3\ufeee\ufeb3\ufe7b\ufee2",
+      "extra_info": "environment: weather"
+    },
+    {
+      "EN": "second",
+      "EG": "thaeni \ufe9b\ufe8e\ufe76\ufee7\ufef2",
+      "extra_info": "quantity: numbers"
+    },
+    {
+      "EN": "second",
+      "EG": "thanya \ufe9b\ufe8e\ufe76\ufee7\ufef4\ufe77\ufe94",
+      "extra_info": "time: duration"
+    },
+    {
+      "EN": "secretary",
+      "EG": "sikirteera \ufeb3\ufe7b\ufedc\ufe7b\ufeae\ufe97\ufef4\ufeae\ufe76\ufe93",
+      "extra_info": "work: trade"
+    },
+    {
+      "EN": "see",
+      "EG": "shaef \ufeb7\ufe8e\ufe76\ufed1",
+      "extra_info": "people: senses"
+    },
+    {
+      "EN": "seed",
+      "EG": "libb \ufedf\ufe7b\ufe90\ufe7c",
+      "extra_info": "food: pulses"
+    },
+    {
+      "EN": "seed",
+      "EG": "libb 'asmar \ufedf\ufe7b\ufe90\ufe7c \ufe83\ufeb3\ufee4\ufe77\ufeae",
+      "extra_info": "food: pulses"
+    },
+    {
+      "EN": "seed",
+      "EG": "bizra \ufe91\ufe7b\ufeac\ufead\ufe76\ufe93",
+      "extra_info": "environment: plants"
+    },
+    {
+      "EN": "sell",
+      "EG": "baeA \ufe91\ufe8e\ufe76\ufec9",
+      "extra_info": "possessions: transfer"
+    },
+    {
+      "EN": "September",
+      "EG": "sibtimbir \ufeb3\ufe7b\ufe92\ufe98\ufe7b\ufee4\ufe92\ufe7b\ufeae",
+      "extra_info": "time: calendar"
+    },
+    {
+      "EN": "seven",
+      "EG": "sabAa \ufeb3\ufe77\ufe92\ufecc\ufe77\ufe94",
+      "extra_info": "quantity: numbers"
+    },
+    {
+      "EN": "seventeen",
+      "EG": "sabAtaeshur \ufeb3\ufe77\ufe92\ufecc\ufe98\ufe8e\ufe76\ufeb7\ufe79\ufeae",
+      "extra_info": "quantity: numbers"
+    },
+    {
+      "EN": "seventy",
+      "EG": "sabAeen \ufeb3\ufe77\ufe92\ufecc\ufef4\ufee6",
+      "extra_info": "quantity: numbers"
+    },
+    {
+      "EN": "sex",
+      "EG": "gins \ufe9f\ufe7b\ufee8\ufeb2",
+      "extra_info": "people: gender"
+    },
+    {
+      "EN": "sex",
+      "EG": "gimaeA \ufe9f\ufe7b\ufee4\ufe8e\ufe76\ufec9",
+      "extra_info": "people: gender"
+    },
+    {
+      "EN": "shake",
+      "EG": "KaDD \ufea7\ufe77\ufebe\ufe7c",
+      "extra_info": "food: preparation"
+    },
+    {
+      "EN": "shake",
+      "EG": "hazz \ufeeb\ufe77\ufeb0\ufe7c",
+      "extra_info": "emotion: distress"
+    },
+    {
+      "EN": "shake",
+      "EG": "hazz \ufeeb\ufe77\ufeb0\ufe7c",
+      "extra_info": "movement: move something"
+    },
+    {
+      "EN": "shake",
+      "EG": "ragg \ufead\ufe76\ufe9d\ufe7c",
+      "extra_info": "food: preparation"
+    },
+    {
+      "EN": "shake",
+      "EG": "hizz \ufeeb\ufe7b\ufeb0\ufe7c",
+      "extra_info": "movement: move something"
+    },
+    {
+      "EN": "shallow",
+      "EG": "saThi \ufeb3\ufe77\ufec4\ufea4\ufef2",
+      "extra_info": "character: character"
+    },
+    {
+      "EN": "she",
+      "EG": "hiyya \ufeeb\ufe7b\ufef2\ufe7c\ufe76",
+      "extra_info": "people: people"
+    },
+    {
+      "EN": "shirt",
+      "EG": "'ameeS \ufed7\ufe77\ufee4\ufef4\ufeba",
+      "extra_info": "clothing: outer wear"
+    },
+    {
+      "EN": "shoot",
+      "EG": "Darab Tal'a \ufebf\ufe77\ufeae\ufe76\ufe8f \ufec3\ufe77\ufee0\ufed8\ufe77\ufe94",
+      "extra_info": "society: violence"
+    },
+    {
+      "EN": "shoot",
+      "EG": "TaKK \ufec3\ufe77\ufea6\ufe7c",
+      "extra_info": "society: violence"
+    },
+    {
+      "EN": "short",
+      "EG": "'uSayar \ufed7\ufe79\ufebc\ufe77\ufef4\ufe77\ufeae",
+      "extra_info": "quantity: size"
+    },
+    {
+      "EN": "shoulder",
+      "EG": "kitf \ufedb\ufe7b\ufe98\ufed2",
+      "extra_info": "people: external parts"
+    },
+    {
+      "EN": "sick",
+      "EG": "Aiyyaen \ufecb\ufe7b\ufef4\ufe7d\ufe8e\ufe76\ufee5",
+      "extra_info": "health: illness"
+    },
+    {
+      "EN": "side",
+      "EG": "nahya \ufee7\ufe8e\ufe76\ufea3\ufef4\ufe77\ufe94",
+      "extra_info": "movement: position"
+    },
+    {
+      "EN": "sign",
+      "EG": "yafTa \ufef3\ufe8e\ufe76\ufed3\ufec4\ufe77\ufe94",
+      "extra_info": "communication: visual"
+    },
+    {
+      "EN": "sign",
+      "EG": "'ishaara \ufe87\ufeb7\ufe8e\ufe76\ufead\ufe76\ufe93",
+      "extra_info": "communication: visual"
+    },
+    {
+      "EN": "sign",
+      "EG": "'iAlanaet \ufe87\ufecb\ufefc\ufee7\ufe8e\ufe76\ufe95",
+      "extra_info": "communication: visual"
+    },
+    {
+      "EN": "sign",
+      "EG": "maDa \ufee3\ufe77\ufec0\ufef0",
+      "extra_info": "communication: written"
+    },
+    {
+      "EN": "sign",
+      "EG": "'amaara \ufe83\ufee3\ufe8e\ufe76\ufead\ufe76\ufe93",
+      "extra_info": "intellect: observe"
+    },
+    {
+      "EN": "silver",
+      "EG": "faDDa \ufed3\ufe77\ufec0\ufe7d\ufe77\ufe94",
+      "extra_info": "possessions: money"
+    },
+    {
+      "EN": "silver",
+      "EG": "faDDa \ufed3\ufe77\ufec0\ufe7d\ufe77\ufe94",
+      "extra_info": "materials: jewelry"
+    },
+    {
+      "EN": "sing",
+      "EG": "Ganna \ufecf\ufe77\ufee8\ufe7d\ufef0",
+      "extra_info": "society: arts"
+    },
+    {
+      "EN": "sister",
+      "EG": "'uKt \ufe83\ufe78\ufea7\ufe96",
+      "extra_info": "society: family"
+    },
+    {
+      "EN": "sit",
+      "EG": "'aAad \ufed7\ufe77\ufecc\ufe77\ufeaa",
+      "extra_info": "movement: stand/stay/wait"
+    },
+    {
+      "EN": "six",
+      "EG": "sitta \ufeb3\ufe7b\ufe98\ufe7d\ufe77\ufe94",
+      "extra_info": "quantity: numbers"
+    },
+    {
+      "EN": "sixteen",
+      "EG": "sittaashar \ufeb3\ufe7b\ufe98\ufe7d\ufe8e\ufe76\ufeb7\ufe77\ufeae",
+      "extra_info": "quantity: numbers"
+    },
+    {
+      "EN": "sixty",
+      "EG": "sitteen \ufeb3\ufe7b\ufe98\ufe7d\ufef4\ufee6",
+      "extra_info": "quantity: numbers"
+    },
+    {
+      "EN": "skin",
+      "EG": "'ishr \ufed7\ufe7b\ufeb8\ufeae",
+      "extra_info": "food: fruit"
+    },
+    {
+      "EN": "skin",
+      "EG": "gild \ufe9f\ufe7b\ufee0\ufeaa",
+      "extra_info": "people: external parts"
+    },
+    {
+      "EN": "skin",
+      "EG": "salaK \ufeb3\ufe77\ufee0\ufe77\ufea6",
+      "extra_info": "food: preparation"
+    },
+    {
+      "EN": "skirt",
+      "EG": "tannoora \ufe97\ufe77\ufee8\ufe7d\ufeee\ufead\ufe76\ufe93",
+      "extra_info": "clothing: outer wear"
+    },
+    {
+      "EN": "sky",
+      "EG": "sama' \ufeb3\ufe77\ufee4\ufe8e\ufe76\ufe80",
+      "extra_info": "environment: sky"
+    },
+    {
+      "EN": "slow",
+      "EG": "m'aKKara \ufee3\ufe84\ufea7\ufe7d\ufe77\ufeae\ufe76\ufe93",
+      "extra_info": "time: time"
+    },
+    {
+      "EN": "small",
+      "EG": "SuGayar \ufebb\ufe79\ufed0\ufe77\ufef4\ufe77\ufeae",
+      "extra_info": "quantity: size"
+    },
+    {
+      "EN": "smell",
+      "EG": "reeha \ufead\ufef3\ufea4\ufe77\ufe94",
+      "extra_info": "people: senses"
+    },
+    {
+      "EN": "smell",
+      "EG": "shamm \ufeb7\ufe77\ufee2\ufe7c",
+      "extra_info": "people: senses"
+    },
+    {
+      "EN": "snow",
+      "EG": "talg \ufe97\ufe77\ufee0\ufe9e",
+      "extra_info": "environment: weather"
+    },
+    {
+      "EN": "soap",
+      "EG": "Saboon \ufebb\ufe8e\ufe76\ufe91\ufeee\ufee5",
+      "extra_info": "people: grooming"
+    },
+    {
+      "EN": "soft",
+      "EG": "Tari \ufec3\ufe77\ufeae\ufef1",
+      "extra_info": "qualities: texture"
+    },
+    {
+      "EN": "soil",
+      "EG": "turaab \ufe97\ufe79\ufeae\ufe8d\ufe76\ufe8f",
+      "extra_info": "environment: landscape"
+    },
+    {
+      "EN": "soldier",
+      "EG": "Aaskari \ufecb\ufe77\ufeb4\ufedc\ufe77\ufeae\ufef1",
+      "extra_info": "society: military"
+    },
+    {
+      "EN": "son",
+      "EG": "'ibn \ufe87\ufe91\ufee6",
+      "extra_info": "society: family"
+    },
+    {
+      "EN": "song",
+      "EG": "Ginwa \ufecf\ufe7b\ufee8\ufeee\ufe76\ufe93",
+      "extra_info": "society: arts"
+    },
+    {
+      "EN": "sound",
+      "EG": "saleem \ufeb3\ufe77\ufee0\ufef4\ufee2",
+      "extra_info": "qualities: durable"
+    },
+    {
+      "EN": "soup",
+      "EG": "shoorba \ufeb7\ufeee\ufead\ufe91\ufe77\ufe94",
+      "extra_info": "food: dishes"
+    },
+    {
+      "EN": "south",
+      "EG": "ganoob \ufe9f\ufe77\ufee8\ufeee\ufe8f",
+      "extra_info": "movement: position"
+    },
+    {
+      "EN": "sport",
+      "EG": "riyaaDa \ufead\ufe7a\ufef3\ufe8e\ufe76\ufebf\ufe77\ufe94",
+      "extra_info": "society: sport"
+    },
+    {
+      "EN": "spring",
+      "EG": "soosta \ufeb3\ufeee\ufeb3\ufe98\ufe77\ufe94",
+      "extra_info": "technical: engineering"
+    },
+    {
+      "EN": "spring",
+      "EG": "ilrabeeA \ufe8d\ufe7a\ufedf\ufeae\ufe76\ufe91\ufef4\ufeca",
+      "extra_info": "environment: weather"
+    },
+    {
+      "EN": "spring",
+      "EG": "Aeen mayyah \ufecb\ufef4\ufee6 \ufee3\ufe77\ufef4\ufe7d\ufe77\ufeea",
+      "extra_info": "environment: water"
+    },
+    {
+      "EN": "square",
+      "EG": "meedaen \ufee3\ufef4\ufeaa\ufe8d\ufe76\ufee5",
+      "extra_info": "environment: urban"
+    },
+    {
+      "EN": "square",
+      "EG": "murabbaA \ufee3\ufe79\ufeae\ufe76\ufe91\ufe7d\ufe77\ufeca",
+      "extra_info": "qualities: shapes"
+    },
+    {
+      "EN": "stand",
+      "EG": "wi'if \ufeed\ufe7a\ufed7\ufe7b\ufed2",
+      "extra_info": "movement: stand/stay/wait"
+    },
+    {
+      "EN": "stand",
+      "EG": "wae'if \ufeed\ufe8d\ufe76\ufed7\ufe7b\ufed2",
+      "extra_info": "movement: stand/stay/wait"
+    },
+    {
+      "EN": "stand",
+      "EG": "'istahmil \ufe87\ufeb3\ufe98\ufe77\ufea4\ufee4\ufe7b\ufede",
+      "extra_info": "character: patience"
+    },
+    {
+      "EN": "star",
+      "EG": "nigm \ufee7\ufe7b\ufea0\ufee2",
+      "extra_info": "work: profession"
+    },
+    {
+      "EN": "star",
+      "EG": "nigma \ufee7\ufe7b\ufea0\ufee4\ufe77\ufe94",
+      "extra_info": "environment: sky"
+    },
+    {
+      "EN": "stir",
+      "EG": "'allib \ufed7\ufe77\ufee0\ufe7d\ufe7b\ufe90",
+      "extra_info": "change: mix"
+    },
+    {
+      "EN": "stone",
+      "EG": "hagar \ufea3\ufe77\ufea0\ufe77\ufeae",
+      "extra_info": "materials: building"
+    },
+    {
+      "EN": "stone",
+      "EG": "Toob \ufec3\ufeee\ufe8f",
+      "extra_info": "materials: building"
+    },
+    {
+      "EN": "stop",
+      "EG": "maw'af \ufee3\ufe77\ufeee\ufed7\ufe77\ufed2",
+      "extra_info": "transport: road"
+    },
+    {
+      "EN": "stop",
+      "EG": "baTTal \ufe91\ufe77\ufec4\ufe7d\ufe77\ufede",
+      "extra_info": "activity: stop"
+    },
+    {
+      "EN": "stop",
+      "EG": "baTTal \ufe91\ufe77\ufec4\ufe7d\ufe77\ufede",
+      "extra_info": "activity: stop"
+    },
+    {
+      "EN": "stop",
+      "EG": "wi'if \ufeed\ufe7a\ufed7\ufe7b\ufed2",
+      "extra_info": "activity: stop"
+    },
+    {
+      "EN": "stop",
+      "EG": "hiss \ufeeb\ufe7b\ufeb2\ufe7c",
+      "extra_info": "influence: control"
+    },
+    {
+      "EN": "straight",
+      "EG": "mustaQeem \ufee3\ufe79\ufeb4\ufe98\ufe77\ufed8\ufef4\ufee2",
+      "extra_info": "qualities: shapes"
+    },
+    {
+      "EN": "straight",
+      "EG": "Aala Tool \ufecb\ufe77\ufee0\ufef0 \ufec3\ufeee\ufedd",
+      "extra_info": "movement: direction"
+    },
+    {
+      "EN": "straight",
+      "EG": "biSaraaha \ufe91\ufe7b\ufebc\ufe77\ufeae\ufe8d\ufe76\ufea3\ufe77\ufe94",
+      "extra_info": "character: honesty"
+    },
+    {
+      "EN": "straight",
+      "EG": "mustaQeem \ufee3\ufe79\ufeb4\ufe98\ufe77\ufed8\ufef4\ufee2",
+      "extra_info": "character: honesty"
+    },
+    {
+      "EN": "street",
+      "EG": "shaeriA \ufeb7\ufe8e\ufe76\ufead\ufe7a\ufec9",
+      "extra_info": "environment: urban"
+    },
+    {
+      "EN": "strong",
+      "EG": "thi'eel \ufe9b\ufe7b\ufed8\ufef4\ufede",
+      "extra_info": "food: drinks"
+    },
+    {
+      "EN": "student",
+      "EG": "Taalib \ufec3\ufe8e\ufe76\ufedf\ufe7b\ufe90",
+      "extra_info": "education: other"
+    },
+    {
+      "EN": "sugar",
+      "EG": "sukkar nabaet \ufeb3\ufe79\ufedc\ufe7d\ufe77\ufeae \ufee7\ufe77\ufe92\ufe8e\ufe76\ufe95",
+      "extra_info": "food: ingredients"
+    },
+    {
+      "EN": "suit",
+      "EG": "badla \ufe91\ufe77\ufeaa\ufedf\ufe77\ufe94",
+      "extra_info": "clothing: outer wear"
+    },
+    {
+      "EN": "suit",
+      "EG": "naesib \ufee7\ufe8e\ufe76\ufeb3\ufe7b\ufe90",
+      "extra_info": "qualities: suitable"
+    },
+    {
+      "EN": "suit",
+      "EG": "daAwa \ufea9\ufe76\ufecb\ufeee\ufeef",
+      "extra_info": "society: law"
+    },
+    {
+      "EN": "summer",
+      "EG": "ilSeef \ufe8d\ufe7a\ufedf\ufebc\ufef4\ufed2",
+      "extra_info": "environment: weather"
+    },
+    {
+      "EN": "sun",
+      "EG": "shams \ufeb7\ufe77\ufee4\ufeb2",
+      "extra_info": "environment: sky"
+    },
+    {
+      "EN": "Sunday",
+      "EG": "yoom il'ahad \ufef3\ufeee\ufee1 \ufe8d\ufe7a\ufedf\ufe84\ufea3\ufe77\ufeaa",
+      "extra_info": "time: calendar"
+    },
+    {
+      "EN": "swim",
+      "EG": "Aaem \ufecb\ufe8e\ufe76\ufee1",
+      "extra_info": "society: sport"
+    },
+    {
+      "EN": "taste",
+      "EG": "zaa' \ufeab\ufe8d\ufe76\ufed5",
+      "extra_info": "people: senses"
+    },
+    {
+      "EN": "taste",
+      "EG": "doo' \ufea9\ufeed\ufed5",
+      "extra_info": "food: consumption"
+    },
+    {
+      "EN": "taste",
+      "EG": "zoo' \ufeab\ufeed\ufed5",
+      "extra_info": "emotion: preference"
+    },
+    {
+      "EN": "tea",
+      "EG": "shaei \ufeb7\ufe8e\ufe76\ufef1",
+      "extra_info": "food: drinks"
+    },
+    {
+      "EN": "teach",
+      "EG": "Aallim \ufecb\ufe77\ufee0\ufe7d\ufe7b\ufee2",
+      "extra_info": "education: teaching"
+    },
+    {
+      "EN": "teacher",
+      "EG": "mudarris \ufee3\ufe79\ufeaa\ufe76\ufead\ufe7c\ufe7a\ufeb1",
+      "extra_info": "work: profession"
+    },
+    {
+      "EN": "tear",
+      "EG": "damA \ufea9\ufe76\ufee3\ufeca",
+      "extra_info": "communication: nonverbal"
+    },
+    {
+      "EN": "tear",
+      "EG": "tamazzuQ \ufe97\ufe77\ufee4\ufe77\ufeb0\ufe7c\ufe78\ufed5",
+      "extra_info": "change: damage"
+    },
+    {
+      "EN": "technology",
+      "EG": "Ailm taTbeeQi \ufecb\ufe7b\ufee0\ufee2 \ufe97\ufe77\ufec4\ufe92\ufef4\ufed8\ufef2",
+      "extra_info": "technical: engineering"
+    },
+    {
+      "EN": "telephone",
+      "EG": "tileefoon \ufe97\ufe7b\ufee0\ufef4\ufed4\ufeee\ufee5",
+      "extra_info": "communication: spoken"
+    },
+    {
+      "EN": "television",
+      "EG": "tileevizyoon \ufe97\ufe7b\ufee0\ufef4\ufb6d\ufe7b\ufeb0\ufef3\ufeee\ufee5",
+      "extra_info": "communication: transmission"
+    },
+    {
+      "EN": "temperature",
+      "EG": "haraara \ufea3\ufe77\ufeae\ufe8d\ufe76\ufead\ufe76\ufe93",
+      "extra_info": "environment: weather"
+    },
+    {
+      "EN": "ten",
+      "EG": "Aashara \ufecb\ufe77\ufeb8\ufe77\ufeae\ufe76\ufe93",
+      "extra_info": "quantity: numbers"
+    },
+    {
+      "EN": "they",
+      "EG": "humma \ufeeb\ufe79\ufee4\ufe7d\ufe8e\ufe76",
+      "extra_info": "people: people"
+    },
+    {
+      "EN": "thick",
+      "EG": "sameek \ufeb3\ufe77\ufee4\ufef4\ufeda",
+      "extra_info": "quantity: size"
+    },
+    {
+      "EN": "thick",
+      "EG": "A'luh tiKeen \ufecb\ufed8\ufee0\ufe79\ufeea \ufe97\ufe7b\ufea8\ufef4\ufee6",
+      "extra_info": "intellect: clever"
+    },
+    {
+      "EN": "thin",
+      "EG": "rufayaA \ufead\ufe78\ufed3\ufe77\ufef4\ufe77\ufeca",
+      "extra_info": "quantity: size"
+    },
+    {
+      "EN": "third",
+      "EG": "thilth \ufe9b\ufe7b\ufee0\ufe9a",
+      "extra_info": "quantity: numbers"
+    },
+    {
+      "EN": "third",
+      "EG": "thilth \ufe9b\ufe7b\ufee0\ufe9a",
+      "extra_info": "quantity: numbers"
+    },
+    {
+      "EN": "third",
+      "EG": "thaelith \ufe9b\ufe8e\ufe76\ufedf\ufe7b\ufe9a",
+      "extra_info": "quantity: numbers"
+    },
+    {
+      "EN": "thirteen",
+      "EG": "talattaashar \ufe97\ufe77\ufee0\ufe77\ufe98\ufe7d\ufe8e\ufe76\ufeb7\ufe77\ufeae",
+      "extra_info": "quantity: numbers"
+    },
+    {
+      "EN": "thirty",
+      "EG": "talateen \ufe97\ufe77\ufefc\ufe97\ufef4\ufee6",
+      "extra_info": "quantity: numbers"
+    },
+    {
+      "EN": "thousand",
+      "EG": "'alf \ufe83\ufedf\ufed2",
+      "extra_info": "quantity: numbers"
+    },
+    {
+      "EN": "three",
+      "EG": "talaeta \ufe97\ufe77\ufefc\ufe97\ufe77\ufe94",
+      "extra_info": "quantity: numbers"
+    },
+    {
+      "EN": "throw",
+      "EG": "Qazaf \ufed7\ufe77\ufeac\ufe76\ufed1",
+      "extra_info": "movement: move something"
+    },
+    {
+      "EN": "Thursday",
+      "EG": "yoom ilKamees \ufef3\ufeee\ufee1 \ufe8d\ufe7a\ufedf\ufea8\ufe77\ufee4\ufef4\ufeb2",
+      "extra_info": "time: calendar"
+    },
+    {
+      "EN": "tight",
+      "EG": "Daya' \ufebf\ufe77\ufef4\ufe77\ufed6",
+      "extra_info": "clothing: dressmaking"
+    },
+    {
+      "EN": "tight",
+      "EG": "baKeel \ufe91\ufe77\ufea8\ufef4\ufede",
+      "extra_info": "character: generous"
+    },
+    {
+      "EN": "time",
+      "EG": "wa't \ufeed\ufe76\ufed7\ufe96",
+      "extra_info": "time: time"
+    },
+    {
+      "EN": "time",
+      "EG": "marra \ufee3\ufe77\ufeae\ufe7c\ufe76\ufe93",
+      "extra_info": "time: event"
+    },
+    {
+      "EN": "time",
+      "EG": "ilsaeAa \ufe8d\ufe7a\ufedf\ufeb4\ufe8e\ufe76\ufecb\ufe77\ufe94",
+      "extra_info": "time: time"
+    },
+    {
+      "EN": "time",
+      "EG": "'agal \ufe83\ufe9f\ufe77\ufede",
+      "extra_info": "time: time"
+    },
+    {
+      "EN": "time",
+      "EG": "wa't \ufeed\ufe76\ufed7\ufe96",
+      "extra_info": "time: time"
+    },
+    {
+      "EN": "tire",
+      "EG": "taAab \ufe97\ufe77\ufecc\ufe77\ufe90",
+      "extra_info": "character: energy"
+    },
+    {
+      "EN": "toe",
+      "EG": "SubaeA rigl \ufebb\ufe79\ufe92\ufe8e\ufe76\ufec9 \ufead\ufe7a\ufe9f\ufede",
+      "extra_info": "people: external parts"
+    },
+    {
+      "EN": "tongue",
+      "EG": "lisaen \ufedf\ufe7b\ufeb4\ufe8e\ufe76\ufee5",
+      "extra_info": "people: external parts"
+    },
+    {
+      "EN": "tool",
+      "EG": "'adaet \ufe83\ufea9\ufe8d\ufe76\ufe93",
+      "extra_info": "work: tools"
+    },
+    {
+      "EN": "tooth",
+      "EG": "sinna \ufeb3\ufe7b\ufee8\ufe7d\ufe77\ufe94",
+      "extra_info": "people: external parts"
+    },
+    {
+      "EN": "top",
+      "EG": "foo'aeni \ufed3\ufeee\ufed7\ufe8e\ufe76\ufee7\ufef2",
+      "extra_info": "movement: up and down"
+    },
+    {
+      "EN": "top",
+      "EG": "GaTa \ufecf\ufe77\ufec4\ufe8e\ufe76",
+      "extra_info": "possessions: storage"
+    },
+    {
+      "EN": "top",
+      "EG": "il'awwil \ufe8d\ufe7a\ufedf\ufe84\ufeed\ufe7c\ufe7a\ufedd",
+      "extra_info": "education: qualifications"
+    },
+    {
+      "EN": "top",
+      "EG": "raas \ufead\ufe8d\ufe76\ufeb1",
+      "extra_info": "movement: position"
+    },
+    {
+      "EN": "top",
+      "EG": "zawwid \ufeaf\ufe76\ufeed\ufe7c\ufe7a\ufea9",
+      "extra_info": "quantity: degree"
+    },
+    {
+      "EN": "touch",
+      "EG": "'ittiSaal \ufe87\ufe97\ufe7d\ufe7b\ufebc\ufe8e\ufe76\ufedd",
+      "extra_info": "movement: position"
+    },
+    {
+      "EN": "touch",
+      "EG": "lamsa \ufedf\ufe77\ufee4\ufeb4\ufe77\ufe94",
+      "extra_info": "people: senses"
+    },
+    {
+      "EN": "touch",
+      "EG": "lams \ufedf\ufe77\ufee4\ufeb2",
+      "extra_info": "people: senses"
+    },
+    {
+      "EN": "town",
+      "EG": "Qarya \ufed7\ufe77\ufeae\ufef3\ufe77\ufe94",
+      "extra_info": "environment: urban"
+    },
+    {
+      "EN": "train",
+      "EG": "QaTaar \ufed7\ufe77\ufec4\ufe8e\ufe76\ufead",
+      "extra_info": "transport: rail"
+    },
+    {
+      "EN": "train",
+      "EG": "darrab \ufea9\ufe76\ufead\ufe7c\ufe76\ufe8f",
+      "extra_info": "education: study"
+    },
+    {
+      "EN": "tree",
+      "EG": "shagar \ufeb7\ufe77\ufea0\ufe77\ufeae",
+      "extra_info": "environment: plants"
+    },
+    {
+      "EN": "truck",
+      "EG": "Aarabiyit na'l \ufecb\ufe77\ufeae\ufe76\ufe91\ufe7b\ufef4\ufe7b\ufe94 \ufee7\ufe77\ufed8\ufede",
+      "extra_info": "transport: road"
+    },
+    {
+      "EN": "Tuesday",
+      "EG": "yoom ilthulaeth \ufef3\ufeee\ufee1 \ufe8d\ufe7a\ufedf\ufe9c\ufe79\ufefc\ufe99",
+      "extra_info": "time: calendar"
+    },
+    {
+      "EN": "turn",
+      "EG": "hawad \ufea3\ufe77\ufeee\ufe76\ufea9",
+      "extra_info": "movement: direction"
+    },
+    {
+      "EN": "turn",
+      "EG": "hawadaeya \ufea3\ufe77\ufeee\ufe76\ufea9\ufe8d\ufe76\ufef3\ufe77\ufe94",
+      "extra_info": "movement: direction"
+    },
+    {
+      "EN": "turn",
+      "EG": "door \ufea9\ufeed\ufead",
+      "extra_info": "society: games"
+    },
+    {
+      "EN": "twelve",
+      "EG": "'itnaeshar \ufe87\ufe97\ufee8\ufe8e\ufe76\ufeb7\ufe77\ufeae",
+      "extra_info": "quantity: numbers"
+    },
+    {
+      "EN": "twenty",
+      "EG": "Aishreen \ufecb\ufe7b\ufeb8\ufeae\ufef3\ufee6",
+      "extra_info": "quantity: numbers"
+    },
+    {
+      "EN": "two",
+      "EG": "'ithneen \ufe87\ufe9b\ufee8\ufef4\ufee6",
+      "extra_info": "quantity: numbers"
+    },
+    {
+      "EN": "ugly",
+      "EG": "wihish \ufeed\ufe7a\ufea3\ufe7b\ufeb6",
+      "extra_info": "qualities: attractive"
+    },
+    {
+      "EN": "university",
+      "EG": "gumAa \ufe9f\ufe79\ufee4\ufecc\ufe77\ufe94",
+      "extra_info": "education: other"
+    },
+    {
+      "EN": "valley",
+      "EG": "waedi \ufeed\ufe8d\ufe76\ufea9\ufef1",
+      "extra_info": "environment: landscape"
+    },
+    {
+      "EN": "verb",
+      "EG": "fiAl \ufed3\ufe7b\ufecc\ufede",
+      "extra_info": "communication: language"
+    },
+    {
+      "EN": "victim",
+      "EG": "Dahiyya \ufebf\ufe77\ufea4\ufe7b\ufef4\ufe7d\ufe77\ufe94",
+      "extra_info": "society: violence"
+    },
+    {
+      "EN": "voice",
+      "EG": "Soot \ufebb\ufeee\ufe95",
+      "extra_info": "communication: spoken"
+    },
+    {
+      "EN": "vowel",
+      "EG": "harf mutharrik \ufea3\ufe77\ufeae\ufed1 \ufee3\ufe79\ufe98\ufea4\ufe77\ufeae\ufe7c\ufe7a\ufed9",
+      "extra_info": "communication: language"
+    },
+    {
+      "EN": "waiter",
+      "EG": "garsoon \ufe9f\ufe77\ufeae\ufeb3\ufeee\ufee5",
+      "extra_info": "work: trade"
+    },
+    {
+      "EN": "wake up",
+      "EG": "Sihi \ufebb\ufe7b\ufea4\ufef2",
+      "extra_info": "people: sleep"
+    },
+    {
+      "EN": "wall",
+      "EG": "soor \ufeb3\ufeee\ufead",
+      "extra_info": "buildings: external"
+    },
+    {
+      "EN": "wall",
+      "EG": "heeTa \ufea3\ufef4\ufec4\ufe77\ufe94",
+      "extra_info": "buildings: parts"
+    },
+    {
+      "EN": "war",
+      "EG": "harb \ufea3\ufe77\ufeae\ufe8f",
+      "extra_info": "society: military"
+    },
+    {
+      "EN": "warm",
+      "EG": "daefi' \ufea9\ufe8d\ufe76\ufed3\ufe7b\ufe8a",
+      "extra_info": "environment: weather"
+    },
+    {
+      "EN": "wash",
+      "EG": "Gasal \ufecf\ufe77\ufeb4\ufe77\ufede",
+      "extra_info": "home: laundry"
+    },
+    {
+      "EN": "water",
+      "EG": "sa'a \ufeb3\ufe77\ufed8\ufef0",
+      "extra_info": "environment: cultivation"
+    },
+    {
+      "EN": "wave",
+      "EG": "'ishaara \ufe87\ufeb7\ufe8e\ufe76\ufead\ufe76\ufe93",
+      "extra_info": "communication: nonverbal"
+    },
+    {
+      "EN": "wave",
+      "EG": "moog \ufee3\ufeee\ufe9d",
+      "extra_info": "environment: water"
+    }
+  ]
+}
