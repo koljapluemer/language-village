@@ -28,6 +28,8 @@ const canvasData = ref({
   color: "#bb2020",
 });
 
+const vueCanvasDrawing = ref(null);
+
 generateRandomExercise();
 
 async function generateRandomExercise() {
@@ -38,38 +40,43 @@ async function generateRandomExercise() {
     {
       text: item.value.item.EG,
       isCorrect: true,
+      extraClass: "",
     },
     {
       text: items["items"][Math.floor(Math.random() * items["items"].length)]
         .EG,
       isCorrect: false,
+      extraClass: "",
     },
     {
       text: items["items"][Math.floor(Math.random() * items["items"].length)]
         .EG,
       isCorrect: false,
+      extraClass: "",
     },
     {
       text: items["items"][Math.floor(Math.random() * items["items"].length)]
         .EG,
       isCorrect: false,
+      extraClass: "",
     },
   ];
   answerOptions.value = answerOptions.value.sort(() => Math.random() - 0.5);
 }
 
-const vueCanvasDrawing = ref(null);
-
-function safeAndNext() {
-  const canvasData = vueCanvasDrawing.value.getAllStrokes();
-  // convert to JSON and append to drawings:
-  drawings.push({
-    item: item.value,
-    canvasData,
-  });
-  localStorage.setItem("drawings", JSON.stringify(drawings));
-  vueCanvasDrawing.value.reset();
-  generateRandomExercise();
+// if wrong, set button red by adding class btn-danger
+// otherwise, set button green by adding class btn-success
+// and after 0.2s go to next
+function handleAnswer(option) {
+  if (option.isCorrect) {
+    option.extraClass = "btn-success";
+    setTimeout(() => {
+      vueCanvasDrawing.value.reset();
+      generateRandomExercise();
+    }, 200);
+  } else {
+    option.extraClass = "btn-error";
+  }
 }
 </script>
 
@@ -81,6 +88,7 @@ function safeAndNext() {
       </div>
       <div id="canvas-wrapper" class="m-5">
         <VueDrawingCanvas
+          :key="item"
           :color="canvasData.color"
           ref="vueCanvasDrawing"
           :initialImage="item.canvasData"
@@ -89,8 +97,8 @@ function safeAndNext() {
 
         <div class="grid grid-cols-2 gap-4 my-2">
           <button
-            class="btn btn-primary"
-            @click="handleAnswer(option.isCorrect)"
+            :class="'btn ' + option.extraClass"
+            @click="handleAnswer(option)"
             v-for="option in answerOptions"
             :key="option.text"
           >
