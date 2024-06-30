@@ -2,6 +2,8 @@
 import items from "@/assets/vocab.json";
 import { ref, computed } from "vue";
 
+import VueDrawingCanvas from "vue-drawing-canvas";
+
 
 let stats = {};
 if (!localStorage.getItem("stats")) {
@@ -19,13 +21,7 @@ generateRandomExercise();
 
 async function generateRandomExercise() {
   isRevealed.value = false;
-  console.log('items', items["items"]);
-  //  select random item from items array
   item.value = items["items"][Math.floor(Math.random() * items["items"].length)];
-  console.log('selected', item.value);
-
-  // TODO: need some way to handle secret
-
 }
 </script>
 
@@ -45,6 +41,7 @@ async function generateRandomExercise() {
           <button class="btn btn-primary" @click="isRevealed = true">D</button> -->
         </div>
       </div>
+      <VueDrawingCanvas class="m-5"/>
     </div>
   </main>
 </template>
