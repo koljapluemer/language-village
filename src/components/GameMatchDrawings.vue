@@ -4,6 +4,8 @@ import { ref, computed } from "vue";
 
 import VueDrawingCanvas from "vue-drawing-canvas";
 
+import { useGameStore } from "@/store/game";
+
 let stats = {};
 if (!localStorage.getItem("stats")) {
   stats = {
