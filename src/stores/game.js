@@ -12,5 +12,6 @@ export const useGameStore = defineStore({
     incrementGold(by = 1) {
       this.gold += by
     }
-  }
+  },
+  persist: true,
 })
