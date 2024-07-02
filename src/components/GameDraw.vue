@@ -4,6 +4,10 @@ import { ref, computed } from "vue";
 
 import VueDrawingCanvas from "vue-drawing-canvas";
 
+import { useGameStore } from "@/stores/game";
+const gameStore = useGameStore();
+
+
 let stats = {};
 if (!localStorage.getItem("stats")) {
   stats = {
@@ -48,6 +52,7 @@ function safeAndNext() {
   });
   localStorage.setItem("drawings", JSON.stringify(drawings))
   vueCanvasDrawing.value.reset();
+  gameStore.incrementGold(10);
   generateRandomExercise();
 }
 </script>
