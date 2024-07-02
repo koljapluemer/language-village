@@ -2,7 +2,9 @@
 import { useGameStore } from "@/stores/game";
 const gameStore = useGameStore();
 
-
+function build(building) {
+  gameStore.addBuilding(building);
+}
 </script>
 
 <template>
@@ -66,4 +68,15 @@ const gameStore = useGameStore();
   </header>
 
   <router-view></router-view>
+
+  <footer class="w-full fixed bottom-0">
+    <div class="navbar bg-base-100">
+      <div class="navbar-start"></div>
+      <div class="navbar-center flex gap-2">
+        <button class="btn" @click="build('image-creator')">Build Image Creator</button>
+        <button class="btn" @click="build('image-matcher')">Build Image Matcher</button>
+      </div>
+      <div class="navbar-end"></div>
+    </div>
+  </footer>
 </template>
