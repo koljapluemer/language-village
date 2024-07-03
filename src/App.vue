@@ -36,6 +36,11 @@ function build(building) {
             <router-link class="link" to="/game/matchdrawings"
               >Match Drawings</router-link
             >
+
+            <!-- component: GameSentencesFreeTranslate,  -->
+            <router-link class="link" to="/game/sentencesfreetranslate"
+              >Translate Sentences Freely</router-link
+            >
           </ul>
         </div>
       </div>
@@ -73,8 +78,12 @@ function build(building) {
     <div class="navbar bg-base-100">
       <div class="navbar-start"></div>
       <div class="navbar-center flex gap-2">
-        <button class="btn" @click="build('image-creator')">Build Image Creator</button>
-        <button class="btn" @click="build('image-matcher')">Build Image Matcher</button>
+        <button class="btn" @click="build('image-creator')">
+          Build Image Creator
+        </button>
+        <button class="btn" @click="build('image-matcher')">
+          Build Image Matcher
+        </button>
       </div>
       <div class="navbar-end"></div>
     </div>

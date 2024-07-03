@@ -1,13 +1,10 @@
 # Currency-Conversion-Pratice
 
-![Project Image](/doc/img/project.png)
-
-
-Practice converting currencies in your head.
+Learn Egyptian Arabic — or German.
 
 ## Acceptance Criteria
 
-- [x] make something I'm proud of
+- [ ] make something I'm proud of
 - [ ] learn something new
 
 
@@ -19,4 +16,4 @@ Practice converting currencies in your head.
 
 ## Credit
 
-- inspired by travels to Turkey and Egypt :)
+-  sentences from Tatobea

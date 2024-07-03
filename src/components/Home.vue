@@ -9,7 +9,11 @@ const gameStore = useGameStore();
   <div class="grid grid-cols-4 gap-4" id="village">
     <div class="card" v-for="building in gameStore.buildings">
       {{ building }}
-      <img src="@/assets/Tiles/building_center_N.png" class="w-20" alt="building" />
+      <img
+        src="@/assets/Tiles/building_center_N.png"
+        class="w-20"
+        alt="building"
+      />
     </div>
   </div>
 </template>
