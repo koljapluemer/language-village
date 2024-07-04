@@ -41,6 +41,9 @@ function build(building) {
             <router-link class="link" to="/game/sentencesfreetranslate"
               >Translate Sentences Freely</router-link
             >
+            <router-link class="link" to="/game/minimalpairs"
+              >Minimal Pairs</router-link
+            >
           </ul>
         </div>
       </div>

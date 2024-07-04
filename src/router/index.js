@@ -5,6 +5,7 @@ import Home from "@/components/Home.vue";
 import GameDraw from "@/components/GameDraw.vue";
 import GameMatchDrawings from "@/components/GameMatchDrawings.vue";
 import GameSentencesFreeTranslate from "@/components/GameSentencesFreeTranslate.vue";
+import GameMinimalPairs from "@/components/GameMinimalPairs.vue";
 
 const routes = [
     {
@@ -26,6 +27,11 @@ const routes = [
         path: "/game/sentencesfreetranslate",
         name: "GameSentencesFreeTranslate",
         component: GameSentencesFreeTranslate,
+    },
+    {
+        path: "/game/minimalpairs",
+        name: "GameMinimalPairs",
+        component: GameMinimalPairs,
     },
 
 ];
