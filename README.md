@@ -1,5 +1,9 @@
 # Currency-Conversion-Pratice
 
+![Project Image](/doc/img/project.png)
+
+
+
 Learn Egyptian Arabic — or German.
 
 ## Acceptance Criteria

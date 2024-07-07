@@ -12,3 +12,10 @@
 ## Ideas
 
 - simple risk reward: enable punishment for wrong image sorting, for more reward
+
+
+
+## Small and Next
+
+- actually build GameMatchWordToDrawings
+- that done, base the "do you like mooz" idea on this
